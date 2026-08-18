@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "updatedAt": "2026-08-18T17:30:57.467Z",
+  "activeGraphId": "8360886282135eaa7295426f",
+  "graphs": [
+    {
+      "id": "7a628736ccb3edb4cf5e6d11",
+      "name": "Migo",
+      "updatedAt": "2026-08-18T04:51:43.150Z"
+    },
+    {
+      "id": "8360886282135eaa7295426f",
+      "name": "Gentoo Rescue",
+      "updatedAt": "2026-08-18T17:30:57.467Z"
+    }
+  ]
+}
