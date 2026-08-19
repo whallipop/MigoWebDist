@@ -1,0 +1,1113 @@
+{
+  "version": 1,
+  "graph": {
+    "id": "d39292b89c6b95edc4bdfa7d",
+    "name": "PipePushParadise",
+    "nodes": [
+      {
+        "id": "rule-1",
+        "type": "rule",
+        "insights": [
+          "目标是连通两个出水口",
+          "推水管"
+        ],
+        "position": {
+          "x": -278.82836847898926,
+          "y": -183.99304759106383
+        }
+      },
+      {
+        "id": "theme-1",
+        "type": "theme",
+        "insights": [
+          "简单的一格水管"
+        ],
+        "position": {
+          "x": -322.9469291136678,
+          "y": 93.00047223050598
+        }
+      },
+      {
+        "id": "theme-2",
+        "type": "theme",
+        "insights": [
+          "旋转两根L水管"
+        ],
+        "position": {
+          "x": 95.92300968037574,
+          "y": 90.2183796615375
+        }
+      },
+      {
+        "id": "rule-2",
+        "type": "rule",
+        "insights": [
+          "推动侧面可以触发轴向的90度旋转",
+          "推动出水口方向只会触发平移"
+        ],
+        "position": {
+          "x": 92.56425772205051,
+          "y": -368.7048423558247
+        }
+      },
+      {
+        "id": "tech-1",
+        "type": "tech",
+        "insights": [
+          "L型水管的翻滚规律"
+        ],
+        "position": {
+          "x": 91.76736431416509,
+          "y": -145.73361914364673
+        }
+      },
+      {
+        "id": "theme-3",
+        "type": "theme",
+        "insights": [
+          " 拼接水管华容道"
+        ],
+        "position": {
+          "x": 517.3885505128634,
+          "y": -174.97087114101117
+        }
+      },
+      {
+        "id": "rule-3",
+        "type": "rule",
+        "insights": [
+          "水管可以互相递推"
+        ],
+        "position": {
+          "x": 501.27776980697985,
+          "y": -524.914147117027
+        }
+      },
+      {
+        "id": "theme-4",
+        "type": "theme",
+        "insights": [
+          "你需要考虑怎么回出口",
+          "连通方式的多解性"
+        ],
+        "position": {
+          "x": 798.2109455886484,
+          "y": 82.11649017987803
+        }
+      },
+      {
+        "id": "rule-4",
+        "type": "rule",
+        "insights": [
+          "角色需要离开谜题房间",
+          "水管出入口可以有多个"
+        ],
+        "position": {
+          "x": 788.8397358610356,
+          "y": -547.1975525794392
+        }
+      },
+      {
+        "id": "theme-5",
+        "type": "theme",
+        "insights": [
+          "需要顶着墙才能阻止旋转的破解方法"
+        ],
+        "position": {
+          "x": 1108.185166842841,
+          "y": 311.8802871131155
+        }
+      },
+      {
+        "id": "rule-5",
+        "type": "rule",
+        "insights": [
+          "回滚无法满足条件的旋转",
+          " 递推不触发旋转"
+        ],
+        "position": {
+          "x": 1366.8264578815813,
+          "y": -598.4630667612084
+        }
+      },
+      {
+        "id": "tech-2",
+        "type": "tech",
+        "insights": [
+          "竖着的L型水管碰到墙/别的水管因为回滚旋转而保持竖着"
+        ],
+        "position": {
+          "x": 1114.106462113302,
+          "y": -378.75438514715745
+        }
+      },
+      {
+        "id": "theme-6",
+        "type": "theme",
+        "insights": [
+          "解锁：栅栏1"
+        ],
+        "position": {
+          "x": 1593.1084724909797,
+          "y": 2.1237680218916566
+        }
+      },
+      {
+        "id": "tech-3",
+        "type": "tech",
+        "insights": [
+          "通过滚动来找到可以推的身位，另一种维度的华容道"
+        ],
+        "position": {
+          "x": 1856.733994846219,
+          "y": -395.48018848995355
+        }
+      },
+      {
+        "id": "theme-7",
+        "type": "theme",
+        "insights": [
+          "L型水管无法滚动1次达成目标，而需要滚动找位置。"
+        ],
+        "position": {
+          "x": 1921.1838872440067,
+          "y": -129.46719714314344
+        }
+      },
+      {
+        "id": "theme-8",
+        "type": "theme",
+        "insights": [
+          "充分利用间接推动不滚动的华容道"
+        ],
+        "position": {
+          "x": 2210.5518252141305,
+          "y": -2.0806532159410054
+        }
+      },
+      {
+        "id": "tech-4",
+        "type": "tech",
+        "insights": [
+          "单格子长度的水管作为递推不旋转工具"
+        ],
+        "position": {
+          "x": 2200.002838501856,
+          "y": -438.2149882862511
+        }
+      },
+      {
+        "id": "theme-9",
+        "type": "theme",
+        "insights": [
+          "竖起来减少空间和通过狭小空间的华容道"
+        ],
+        "position": {
+          "x": 2406.3973861543395,
+          "y": 143.31840088206354
+        }
+      },
+      {
+        "id": "tech-5",
+        "type": "tech",
+        "insights": [
+          "竖起来的L型水管减少占地面积",
+          "通过狭小隘口"
+        ],
+        "position": {
+          "x": 2505.341714753612,
+          "y": -444.732806840726
+        }
+      },
+      {
+        "id": "tech-6",
+        "type": "tech",
+        "insights": [
+          "I型水管前置阻止L型水管滚动（回滚）"
+        ],
+        "position": {
+          "x": 2801.968136450609,
+          "y": -431.4048940982676
+        }
+      },
+      {
+        "id": "theme-10",
+        "type": "theme",
+        "insights": [
+          "有难度的递推华容道"
+        ],
+        "position": {
+          "x": 2696.670530694332,
+          "y": 288.16159034935083
+        }
+      },
+      {
+        "id": "theme-11",
+        "type": "theme",
+        "insights": [
+          "考察解法构造的华容道"
+        ],
+        "position": {
+          "x": 2169.84351818407,
+          "y": 303.1170867462614
+        }
+      },
+      {
+        "id": "theme-12",
+        "type": "theme",
+        "insights": [
+          "需要在小空间塞入两个L型水管的 华容道"
+        ],
+        "position": {
+          "x": 2872.8681102273927,
+          "y": 482.40717980512136
+        }
+      },
+      {
+        "id": "theme-13",
+        "type": "theme",
+        "insights": [
+          "交换两个L型的华容道，本质是竖起来省空间"
+        ],
+        "position": {
+          "x": 2172.0302423219696,
+          "y": 544.4106317491901
+        }
+      },
+      {
+        "id": "theme-14",
+        "type": "theme",
+        "insights": [
+          "又一个考察递推控制旋转与否的华容道谜题"
+        ],
+        "position": {
+          "x": 1967.1072076368423,
+          "y": 778.2147635437527
+        }
+      },
+      {
+        "id": "theme-15",
+        "type": "theme",
+        "insights": [
+          ""
+        ],
+        "position": {
+          "x": 3360.6389675205974,
+          "y": 252.999760202665
+        }
+      },
+      {
+        "id": "tech-7",
+        "type": "tech",
+        "insights": [
+          "两个Z型水管竖起来在空中连通"
+        ],
+        "position": {
+          "x": 3337.2309799052705,
+          "y": -433.7712938410266
+        }
+      }
+    ],
+    "groups": [
+      {
+        "id": "group-1",
+        "type": "group",
+        "name": "引入",
+        "memberNodeIds": [
+          "theme-1",
+          "theme-2"
+        ],
+        "collapsed": false,
+        "position": {
+          "x": -344.3771248332945,
+          "y": 57.39171255327337
+        }
+      },
+      {
+        "id": "group-2",
+        "type": "group",
+        "name": "更多基本技巧",
+        "memberNodeIds": [
+          "theme-4",
+          "theme-3",
+          "theme-5"
+        ],
+        "collapsed": false,
+        "position": {
+          "x": 945.4014515435601,
+          "y": -167.60874297132452
+        }
+      },
+      {
+        "id": "group-3",
+        "type": "group",
+        "name": "递推控制滚动技巧",
+        "memberNodeIds": [
+          "theme-6",
+          "theme-7",
+          "theme-8",
+          "theme-9",
+          "theme-10",
+          "theme-14",
+          "theme-12",
+          "theme-13",
+          "theme-11",
+          "theme-15"
+        ],
+        "collapsed": false,
+        "position": {
+          "x": 1592.4342252940787,
+          "y": -89.15351424164477
+        }
+      }
+    ],
+    "edges": [
+      {
+        "id": "edge-1",
+        "sourceNodeId": "rule-1",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-1",
+        "targetPort": "top"
+      },
+      {
+        "id": "edge-2",
+        "sourceNodeId": "theme-1",
+        "sourcePort": "right",
+        "targetNodeId": "theme-2",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-3",
+        "sourceNodeId": "rule-2",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-1",
+        "targetPort": "top"
+      },
+      {
+        "id": "edge-4",
+        "sourceNodeId": "tech-1",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-2",
+        "targetPort": "top"
+      },
+      {
+        "id": "edge-5",
+        "sourceNodeId": "theme-2",
+        "sourcePort": "right",
+        "targetNodeId": "theme-3",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-6",
+        "sourceNodeId": "rule-3",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-3",
+        "targetPort": "top"
+      },
+      {
+        "id": "edge-7",
+        "sourceNodeId": "theme-2",
+        "sourcePort": "right",
+        "targetNodeId": "theme-4",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-8",
+        "sourceNodeId": "rule-4",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-4",
+        "targetPort": "top"
+      },
+      {
+        "id": "edge-9",
+        "sourceNodeId": "theme-2",
+        "sourcePort": "right",
+        "targetNodeId": "theme-5",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-10",
+        "sourceNodeId": "rule-5",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-5",
+        "targetPort": "top"
+      },
+      {
+        "id": "edge-11",
+        "sourceNodeId": "rule-5",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-2",
+        "targetPort": "top"
+      },
+      {
+        "id": "edge-12",
+        "sourceNodeId": "tech-2",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-5",
+        "targetPort": "top"
+      },
+      {
+        "id": "edge-13",
+        "sourceNodeId": "theme-3",
+        "sourcePort": "right",
+        "targetNodeId": "theme-6",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-14",
+        "sourceNodeId": "theme-4",
+        "sourcePort": "right",
+        "targetNodeId": "theme-6",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-15",
+        "sourceNodeId": "theme-5",
+        "sourcePort": "right",
+        "targetNodeId": "theme-6",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-16",
+        "sourceNodeId": "tech-3",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-7",
+        "targetPort": "top"
+      },
+      {
+        "id": "edge-17",
+        "sourceNodeId": "theme-6",
+        "sourcePort": "right",
+        "targetNodeId": "theme-7",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-18",
+        "sourceNodeId": "theme-6",
+        "sourcePort": "right",
+        "targetNodeId": "theme-8",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-19",
+        "sourceNodeId": "rule-5",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-4",
+        "targetPort": "top"
+      },
+      {
+        "id": "edge-20",
+        "sourceNodeId": "tech-4",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-8",
+        "targetPort": "top"
+      },
+      {
+        "id": "edge-21",
+        "sourceNodeId": "theme-6",
+        "sourcePort": "right",
+        "targetNodeId": "theme-9",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-22",
+        "sourceNodeId": "tech-5",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-9",
+        "targetPort": "top"
+      },
+      {
+        "id": "edge-23",
+        "sourceNodeId": "theme-6",
+        "sourcePort": "right",
+        "targetNodeId": "theme-10",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-24",
+        "sourceNodeId": "theme-6",
+        "sourcePort": "right",
+        "targetNodeId": "theme-11",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-25",
+        "sourceNodeId": "theme-6",
+        "sourcePort": "right",
+        "targetNodeId": "theme-12",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-26",
+        "sourceNodeId": "theme-6",
+        "sourcePort": "right",
+        "targetNodeId": "theme-13",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-27",
+        "sourceNodeId": "theme-6",
+        "sourcePort": "right",
+        "targetNodeId": "theme-14",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-28",
+        "sourceNodeId": "theme-7",
+        "sourcePort": "right",
+        "targetNodeId": "theme-15",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-29",
+        "sourceNodeId": "theme-8",
+        "sourcePort": "right",
+        "targetNodeId": "theme-15",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-30",
+        "sourceNodeId": "theme-9",
+        "sourcePort": "right",
+        "targetNodeId": "theme-15",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-31",
+        "sourceNodeId": "theme-10",
+        "sourcePort": "right",
+        "targetNodeId": "theme-15",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-32",
+        "sourceNodeId": "theme-11",
+        "sourcePort": "right",
+        "targetNodeId": "theme-15",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-33",
+        "sourceNodeId": "theme-12",
+        "sourcePort": "right",
+        "targetNodeId": "theme-15",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-34",
+        "sourceNodeId": "theme-13",
+        "sourcePort": "right",
+        "targetNodeId": "theme-15",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-35",
+        "sourceNodeId": "theme-14",
+        "sourcePort": "right",
+        "targetNodeId": "theme-15",
+        "targetPort": "left"
+      },
+      {
+        "id": "edge-36",
+        "sourceNodeId": "tech-6",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-10",
+        "targetPort": "top"
+      },
+      {
+        "id": "edge-37",
+        "sourceNodeId": "tech-6",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-12",
+        "targetPort": "top"
+      },
+      {
+        "id": "edge-38",
+        "sourceNodeId": "tech-4",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-11",
+        "targetPort": "top"
+      },
+      {
+        "id": "edge-39",
+        "sourceNodeId": "tech-5",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-13",
+        "targetPort": "top"
+      },
+      {
+        "id": "edge-40",
+        "sourceNodeId": "tech-7",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-15",
+        "targetPort": "top"
+      }
+    ],
+    "bake": {
+      "version": 1,
+      "sourceFingerprint": "f132b4fe",
+      "generatedAt": "2026-08-19T05:59:05.061Z",
+      "nodes": {
+        "rule-1": {
+          "dependencyLayers": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "theme-1": {
+          "dependencyLayers": [
+            [
+              "rule-1"
+            ]
+          ],
+          "sequenceId": "sequence:theme-1|theme-2",
+          "color": "#6f7149"
+        },
+        "theme-2": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2"
+            ],
+            [
+              "theme-1",
+              "tech-1"
+            ]
+          ],
+          "sequenceId": "sequence:theme-1|theme-2",
+          "color": "#6f7149"
+        },
+        "rule-2": {
+          "dependencyLayers": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "tech-1": {
+          "dependencyLayers": [
+            [
+              "rule-2"
+            ]
+          ],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-3": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3"
+            ],
+            [
+              "theme-1",
+              "tech-1"
+            ],
+            [
+              "theme-2"
+            ]
+          ],
+          "sequenceId": "sequence:theme-3",
+          "color": "#725c82"
+        },
+        "rule-3": {
+          "dependencyLayers": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "theme-4": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-4"
+            ],
+            [
+              "theme-1",
+              "tech-1"
+            ],
+            [
+              "theme-2"
+            ]
+          ],
+          "sequenceId": "sequence:theme-4",
+          "color": "#6f7149"
+        },
+        "rule-4": {
+          "dependencyLayers": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "theme-5": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-5"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2"
+            ],
+            [
+              "theme-2"
+            ]
+          ],
+          "sequenceId": "sequence:theme-5",
+          "color": "#725c82"
+        },
+        "rule-5": {
+          "dependencyLayers": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "tech-2": {
+          "dependencyLayers": [
+            [
+              "rule-5"
+            ]
+          ],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-6": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ]
+          ],
+          "sequenceId": "sequence:theme-6",
+          "color": "#426b73"
+        },
+        "tech-3": {
+          "dependencyLayers": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-7": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-3"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ]
+          ],
+          "sequenceId": "sequence:theme-7",
+          "color": "#4e6f57"
+        },
+        "theme-8": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2",
+              "tech-4"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ]
+          ],
+          "sequenceId": "sequence:theme-8",
+          "color": "#876446"
+        },
+        "tech-4": {
+          "dependencyLayers": [
+            [
+              "rule-5"
+            ]
+          ],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-9": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-5"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ]
+          ],
+          "sequenceId": "sequence:theme-9",
+          "color": "#53698a"
+        },
+        "tech-5": {
+          "dependencyLayers": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "tech-6": {
+          "dependencyLayers": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-10": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-6"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ]
+          ],
+          "sequenceId": "sequence:theme-10",
+          "color": "#805f4b"
+        },
+        "theme-11": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2",
+              "tech-4"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ]
+          ],
+          "sequenceId": "sequence:theme-11",
+          "color": "#7b5961"
+        },
+        "theme-12": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-6"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ]
+          ],
+          "sequenceId": "sequence:theme-12",
+          "color": "#53698a"
+        },
+        "theme-13": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-5"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ]
+          ],
+          "sequenceId": "sequence:theme-13",
+          "color": "#876446"
+        },
+        "theme-14": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ]
+          ],
+          "sequenceId": "sequence:theme-14",
+          "color": "#4e6f57"
+        },
+        "theme-15": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-3",
+              "tech-5",
+              "tech-6",
+              "tech-7"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2",
+              "tech-4"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-7",
+              "theme-8",
+              "theme-9",
+              "theme-10",
+              "theme-11",
+              "theme-12",
+              "theme-13",
+              "theme-14"
+            ]
+          ],
+          "sequenceId": "sequence:theme-15",
+          "color": "#426b73"
+        },
+        "tech-7": {
+          "dependencyLayers": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        }
+      }
+    }
+  }
+}
