@@ -602,8 +602,8 @@
           "躲开地上的坑的教学谜题"
         ],
         "position": {
-          "x": 5786.337475684239,
-          "y": 3390.83801920995
+          "x": 5838.553163667087,
+          "y": 3673.3051860058895
         }
       },
       {
@@ -637,7 +637,7 @@
         ],
         "position": {
           "x": 6280.109005070644,
-          "y": 3298.1116340505055
+          "y": 3298.7443493185556
         }
       },
       {
@@ -659,7 +659,7 @@
         ],
         "position": {
           "x": 6434.0121520505745,
-          "y": 3724.2269966238414
+          "y": 3724.8597118918915
         }
       },
       {
@@ -670,7 +670,7 @@
         ],
         "position": {
           "x": 6816.976518892454,
-          "y": 3717.1339575266834
+          "y": 3717.7666727947335
         }
       },
       {
@@ -703,7 +703,7 @@
         ],
         "position": {
           "x": 6518.297208336535,
-          "y": 4128.8120213232405
+          "y": 4129.44473659129
         }
       },
       {
@@ -714,7 +714,7 @@
         ],
         "position": {
           "x": 7185.859180829277,
-          "y": 3567.6464293510176
+          "y": 3568.2791446190677
         }
       },
       {
@@ -725,7 +725,7 @@
         ],
         "position": {
           "x": 7381.124004832001,
-          "y": 3899.737810727375
+          "y": 3900.370525995425
         }
       },
       {
@@ -736,7 +736,7 @@
         ],
         "position": {
           "x": 7024.466639861421,
-          "y": 4159.475242178093
+          "y": 4160.107957446143
         }
       },
       {
@@ -747,7 +747,7 @@
         ],
         "position": {
           "x": 7690.506873054746,
-          "y": 3770.4942728014307
+          "y": 3771.126988069481
         }
       },
       {
@@ -758,7 +758,7 @@
         ],
         "position": {
           "x": 7421.325189308776,
-          "y": 4169.760720515568
+          "y": 4170.393435783618
         }
       },
       {
@@ -769,7 +769,7 @@
         ],
         "position": {
           "x": 7788.086341524933,
-          "y": 4180.306930526015
+          "y": 4180.939645794065
         }
       },
       {
@@ -780,7 +780,7 @@
         ],
         "position": {
           "x": 7742.605384314698,
-          "y": 3445.4256696849448
+          "y": 3446.058384952995
         }
       },
       {
@@ -803,6 +803,206 @@
         "position": {
           "x": 8605.699794914757,
           "y": 2755.5565526164783
+        }
+      },
+      {
+        "id": "theme-40",
+        "type": "theme",
+        "insights": [
+          "粘粘水管教学"
+        ],
+        "position": {
+          "x": 8098.4169440874,
+          "y": 5211.3926904833215
+        }
+      },
+      {
+        "id": "rule-13",
+        "type": "rule",
+        "insights": [
+          "粘粘水管的出入口和别的接在一起会一起移动",
+          "粘在一起的水管的旋转虽然是整体，但如果有部分没法旋转那部分也不会旋转"
+        ],
+        "position": {
+          "x": 8827.133339315826,
+          "y": 4271.256379141846
+        }
+      },
+      {
+        "id": "theme-41",
+        "type": "theme",
+        "insights": [
+          "提前粘粘好不要掉进坑里"
+        ],
+        "position": {
+          "x": 8590.392369024154,
+          "y": 5070.0117803890325
+        }
+      },
+      {
+        "id": "tech-22",
+        "type": "tech",
+        "insights": [
+          "十字水管首次出现"
+        ],
+        "position": {
+          "x": 8780.22149752181,
+          "y": 4725.227254783105
+        }
+      },
+      {
+        "id": "theme-42",
+        "type": "theme",
+        "insights": [
+          " 应用坑沿旋转和竖起省空间解决的谜题"
+        ],
+        "position": {
+          "x": 8984.215384558469,
+          "y": 5097.3578656255495
+        }
+      },
+      {
+        "id": "theme-43",
+        "type": "theme",
+        "insights": [
+          "多个单节水管的拼接趣味谜题"
+        ],
+        "position": {
+          "x": 8889.44084164043,
+          "y": 5519.448300285981
+        }
+      },
+      {
+        "id": "theme-44",
+        "type": "theme",
+        "insights": [
+          "用L水管救出非旋转不能救的大Z型水管"
+        ],
+        "position": {
+          "x": 8617.087477542562,
+          "y": 5973.428302791669
+        }
+      },
+      {
+        "id": "tech-23",
+        "type": "tech",
+        "insights": [
+          "用一个水管的旋转去救出一个没法移动的死角水管"
+        ],
+        "position": {
+          "x": 8377.464616569057,
+          "y": 4749.034433199592
+        }
+      },
+      {
+        "id": "theme-45",
+        "type": "theme",
+        "insights": [
+          "顺序很重要的拼接水管拼图华容道"
+        ],
+        "position": {
+          "x": 8815.161894999052,
+          "y": 5729.328734418986
+        }
+      },
+      {
+        "id": "theme-46",
+        "type": "theme",
+        "insights": [
+          "多个水管拼接并竖起来才能就到高处水管的趣味挑战"
+        ],
+        "position": {
+          "x": 9064.54057461561,
+          "y": 6032.084038866041
+        }
+      },
+      {
+        "id": "tech-24",
+        "type": "tech",
+        "insights": [
+          "按顺序拼接水管"
+        ],
+        "position": {
+          "x": 9221.34134710149,
+          "y": 5345.8369291373065
+        }
+      },
+      {
+        "id": "tech-25",
+        "type": "tech",
+        "insights": [
+          "旋转高处移动救下高处的水管"
+        ],
+        "position": {
+          "x": 9123.886131550167,
+          "y": 5800.529852831039
+        }
+      },
+      {
+        "id": "theme-47",
+        "type": "theme",
+        "insights": [
+          "Z型拨落高处粘粘水管并接住"
+        ],
+        "position": {
+          "x": 9472.756991763414,
+          "y": 5189.8296816318025
+        }
+      },
+      {
+        "id": "rule-14",
+        "type": "rule",
+        "insights": [
+          "粘粘水管掉落时碰到别的粘粘水管，对应上了就能粘住并终止掉落"
+        ],
+        "position": {
+          "x": 9310.568806427422,
+          "y": 4603.071068954714
+        }
+      },
+      {
+        "id": "tech-26",
+        "type": "tech",
+        "insights": [
+          "坑沿借住粘粘水管"
+        ],
+        "position": {
+          "x": 9320.612290862224,
+          "y": 4798.761841365619
+        }
+      },
+      {
+        "id": "theme-48",
+        "type": "theme",
+        "insights": [
+          "常规最后一关，要求：最后一步旋转一步到位够到极高处",
+          "救出坑里的水管"
+        ],
+        "position": {
+          "x": 10298.009348428004,
+          "y": 4979.2030521539145
+        }
+      },
+      {
+        "id": "tech-27",
+        "type": "tech",
+        "insights": [
+          "粘粘水管可以救出坑底水管"
+        ],
+        "position": {
+          "x": 10210.366160931602,
+          "y": 4746.425009429215
+        }
+      },
+      {
+        "id": "rule-15",
+        "type": "rule",
+        "insights": [
+          "抬升机关可以在墙上，高度任意，规则不变"
+        ],
+        "position": {
+          "x": 10557.045489544444,
+          "y": 4732.769533251452
         }
       }
     ],
@@ -900,7 +1100,6 @@
         "type": "group",
         "name": "坑",
         "memberNodeIds": [
-          "theme-28",
           "theme-29",
           "theme-36",
           "theme-30",
@@ -911,12 +1110,35 @@
           "theme-34",
           "theme-38",
           "theme-37",
-          "theme-39"
+          "theme-39",
+          "theme-28"
         ],
         "collapsed": false,
         "position": {
           "x": 8369.611103293022,
-          "y": 1013.8624497719387
+          "y": 1014.4951650399887
+        }
+      },
+      {
+        "id": "group-7",
+        "type": "group",
+        "name": "粘粘水管",
+        "memberNodeIds": [
+          "theme-40",
+          "theme-41",
+          "theme-42",
+          "tech-24",
+          "theme-43",
+          "theme-46",
+          "theme-44",
+          "theme-45",
+          "tech-25",
+          "theme-47"
+        ],
+        "collapsed": false,
+        "position": {
+          "x": 8091.193559687789,
+          "y": 5169.398168309509
         }
       }
     ],
@@ -1538,14 +1760,6 @@
         "dependencyType": "direct"
       },
       {
-        "id": "edge-56",
-        "sourceNodeId": "theme-18",
-        "sourcePort": "right",
-        "targetNodeId": "theme-24",
-        "targetPort": "left",
-        "dependencyType": "indirect"
-      },
-      {
         "id": "edge-57",
         "sourceNodeId": "theme-20",
         "sourcePort": "right",
@@ -1744,12 +1958,276 @@
         "targetNodeId": "theme-22",
         "targetPort": "left",
         "dependencyType": "direct"
+      },
+      {
+        "id": "edge-41",
+        "sourceNodeId": "theme-28",
+        "sourcePort": "right",
+        "targetNodeId": "theme-40",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-50",
+        "sourceNodeId": "theme-40",
+        "sourcePort": "right",
+        "targetNodeId": "theme-41",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-53",
+        "sourceNodeId": "tech-22",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-41",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-73",
+        "sourceNodeId": "theme-41",
+        "sourcePort": "right",
+        "targetNodeId": "theme-42",
+        "targetPort": "left",
+        "dependencyType": "indirect"
+      },
+      {
+        "id": "edge-77",
+        "sourceNodeId": "theme-40",
+        "sourcePort": "right",
+        "targetNodeId": "theme-43",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-80",
+        "sourceNodeId": "theme-40",
+        "sourcePort": "right",
+        "targetNodeId": "theme-44",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-85",
+        "sourceNodeId": "rule-13",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-23",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-46",
+        "sourceNodeId": "tech-23",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-40",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-112",
+        "sourceNodeId": "tech-23",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-44",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-114",
+        "sourceNodeId": "theme-40",
+        "sourcePort": "right",
+        "targetNodeId": "theme-45",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-115",
+        "sourceNodeId": "tech-24",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-45",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-117",
+        "sourceNodeId": "tech-25",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-46",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-118",
+        "sourceNodeId": "tech-24",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-43",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-67",
+        "sourceNodeId": "theme-44",
+        "sourcePort": "right",
+        "targetNodeId": "theme-46",
+        "targetPort": "left",
+        "dependencyType": "indirect"
+      },
+      {
+        "id": "edge-116",
+        "sourceNodeId": "rule-14",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-26",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-119",
+        "sourceNodeId": "theme-40",
+        "sourcePort": "right",
+        "targetNodeId": "theme-47",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-120",
+        "sourceNodeId": "tech-26",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-47",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-121",
+        "sourceNodeId": "theme-42",
+        "sourcePort": "right",
+        "targetNodeId": "theme-48",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-122",
+        "sourceNodeId": "theme-47",
+        "sourcePort": "right",
+        "targetNodeId": "theme-48",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-123",
+        "sourceNodeId": "theme-43",
+        "sourcePort": "right",
+        "targetNodeId": "theme-48",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-124",
+        "sourceNodeId": "theme-45",
+        "sourcePort": "right",
+        "targetNodeId": "theme-48",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-125",
+        "sourceNodeId": "theme-46",
+        "sourcePort": "right",
+        "targetNodeId": "theme-48",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-126",
+        "sourceNodeId": "theme-39",
+        "sourcePort": "right",
+        "targetNodeId": "theme-40",
+        "targetPort": "left",
+        "dependencyType": "indirect"
+      },
+      {
+        "id": "edge-127",
+        "sourceNodeId": "theme-36",
+        "sourcePort": "right",
+        "targetNodeId": "theme-40",
+        "targetPort": "left",
+        "dependencyType": "indirect"
+      },
+      {
+        "id": "edge-128",
+        "sourceNodeId": "theme-38",
+        "sourcePort": "right",
+        "targetNodeId": "theme-40",
+        "targetPort": "left",
+        "dependencyType": "indirect"
+      },
+      {
+        "id": "edge-129",
+        "sourceNodeId": "theme-25",
+        "sourcePort": "right",
+        "targetNodeId": "theme-28",
+        "targetPort": "left",
+        "dependencyType": "indirect"
+      },
+      {
+        "id": "edge-130",
+        "sourceNodeId": "theme-26",
+        "sourcePort": "right",
+        "targetNodeId": "theme-28",
+        "targetPort": "left",
+        "dependencyType": "indirect"
+      },
+      {
+        "id": "edge-131",
+        "sourceNodeId": "theme-27",
+        "sourcePort": "right",
+        "targetNodeId": "theme-28",
+        "targetPort": "left",
+        "dependencyType": "indirect"
+      },
+      {
+        "id": "edge-56",
+        "sourceNodeId": "theme-18",
+        "sourcePort": "right",
+        "targetNodeId": "theme-20",
+        "targetPort": "left",
+        "dependencyType": "indirect"
+      },
+      {
+        "id": "edge-132",
+        "sourceNodeId": "theme-19",
+        "sourcePort": "right",
+        "targetNodeId": "theme-20",
+        "targetPort": "left",
+        "dependencyType": "indirect"
+      },
+      {
+        "id": "edge-133",
+        "sourceNodeId": "tech-27",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-48",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-134",
+        "sourceNodeId": "rule-13",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-27",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-135",
+        "sourceNodeId": "rule-15",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-48",
+        "targetPort": "top",
+        "dependencyType": "direct"
       }
     ],
     "bake": {
       "version": 1,
-      "sourceFingerprint": "b05b811d",
-      "generatedAt": "2026-08-20T05:55:26.405Z",
+      "sourceFingerprint": "29269653",
+      "generatedAt": "2026-08-21T05:16:08.608Z",
       "nodes": {
         "rule-1": {
           "dependencyLayers": [],
@@ -2663,6 +3141,8 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8"
             ],
             [
@@ -2674,6 +3154,8 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10"
             ],
             [
@@ -2699,6 +3181,16 @@
             ],
             [
               "theme-15"
+            ],
+            [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
             ]
           ],
           "indirectDependencyNodeIds": [
@@ -2706,6 +3198,8 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
             "theme-1",
             "tech-1",
             "tech-2",
@@ -2713,6 +3207,8 @@
             "tech-4",
             "tech-5",
             "tech-6",
+            "tech-8",
+            "tech-9",
             "theme-2",
             "theme-3",
             "theme-4",
@@ -2725,7 +3221,11 @@
             "theme-11",
             "theme-12",
             "theme-13",
-            "theme-14"
+            "theme-14",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18"
           ],
           "sequenceId": "sequence:theme-20",
           "color": "#7b5961"
@@ -2744,6 +3244,8 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8"
             ],
             [
@@ -2755,6 +3257,8 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
               "tech-11"
             ],
@@ -2783,6 +3287,16 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
             ]
           ],
@@ -2791,6 +3305,8 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
             "theme-1",
             "tech-1",
             "tech-2",
@@ -2798,6 +3314,8 @@
             "tech-4",
             "tech-5",
             "tech-6",
+            "tech-8",
+            "tech-9",
             "theme-2",
             "theme-3",
             "theme-4",
@@ -2810,7 +3328,11 @@
             "theme-11",
             "theme-12",
             "theme-13",
-            "theme-14"
+            "theme-14",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18"
           ],
           "sequenceId": "sequence:theme-21",
           "color": "#805f4b"
@@ -2833,6 +3355,8 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8"
             ],
             [
@@ -2844,6 +3368,8 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
               "tech-12"
             ],
@@ -2872,6 +3398,16 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
             ]
           ],
@@ -2880,6 +3416,8 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
             "theme-1",
             "tech-1",
             "tech-2",
@@ -2887,6 +3425,8 @@
             "tech-4",
             "tech-5",
             "tech-6",
+            "tech-8",
+            "tech-9",
             "theme-2",
             "theme-3",
             "theme-4",
@@ -2899,7 +3439,11 @@
             "theme-11",
             "theme-12",
             "theme-13",
-            "theme-14"
+            "theme-14",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18"
           ],
           "sequenceId": "sequence:theme-22",
           "color": "#876446"
@@ -2922,6 +3466,8 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8",
               "rule-9"
             ],
@@ -2934,6 +3480,8 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
               "tech-11",
               "tech-13",
@@ -2964,6 +3512,16 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
             ],
             [
@@ -2976,6 +3534,8 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
             "rule-8",
             "theme-1",
             "tech-1",
@@ -2985,6 +3545,8 @@
             "tech-5",
             "tech-6",
             "tech-7",
+            "tech-8",
+            "tech-9",
             "tech-10",
             "tech-11",
             "theme-2",
@@ -3001,6 +3563,10 @@
             "theme-13",
             "theme-14",
             "theme-15",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
             "theme-20",
             "theme-21"
           ],
@@ -3099,16 +3665,23 @@
               "theme-15"
             ],
             [
-              "theme-16",
-              "theme-20"
+              "theme-16"
             ],
             [
               "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-20"
+            ],
+            [
               "theme-21",
               "theme-22"
             ],
             [
-              "theme-18",
               "theme-23"
             ]
           ],
@@ -3151,11 +3724,12 @@
             "theme-14",
             "theme-15",
             "theme-16",
-            "theme-20",
             "theme-17",
+            "theme-19",
+            "theme-18",
+            "theme-20",
             "theme-21",
             "theme-22",
-            "theme-18",
             "theme-23"
           ],
           "sequenceId": "sequence:theme-24",
@@ -3169,6 +3743,8 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8"
             ],
             [
@@ -3180,6 +3756,8 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
               "tech-12"
             ],
@@ -3208,6 +3786,16 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
             ],
             [
@@ -3220,6 +3808,8 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
             "rule-8",
             "theme-1",
             "tech-1",
@@ -3229,6 +3819,8 @@
             "tech-5",
             "tech-6",
             "tech-7",
+            "tech-8",
+            "tech-9",
             "tech-10",
             "tech-12",
             "theme-2",
@@ -3245,6 +3837,10 @@
             "theme-13",
             "theme-14",
             "theme-15",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
             "theme-20",
             "theme-22"
           ],
@@ -3307,16 +3903,23 @@
               "theme-15"
             ],
             [
-              "theme-16",
-              "theme-20"
+              "theme-16"
             ],
             [
               "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-20"
+            ],
+            [
               "theme-21",
               "theme-22"
             ],
             [
-              "theme-18",
               "theme-23"
             ],
             [
@@ -3364,11 +3967,12 @@
             "theme-14",
             "theme-15",
             "theme-16",
-            "theme-20",
             "theme-17",
+            "theme-19",
+            "theme-18",
+            "theme-20",
             "theme-21",
             "theme-22",
-            "theme-18",
             "theme-23",
             "theme-24"
           ],
@@ -3383,6 +3987,8 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8",
               "rule-9"
             ],
@@ -3395,6 +4001,8 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
               "tech-11",
               "tech-16"
@@ -3424,6 +4032,16 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
             ],
             [
@@ -3436,6 +4054,8 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
             "theme-1",
             "tech-1",
             "tech-2",
@@ -3444,6 +4064,8 @@
             "tech-5",
             "tech-6",
             "tech-7",
+            "tech-8",
+            "tech-9",
             "tech-10",
             "tech-11",
             "theme-2",
@@ -3460,6 +4082,10 @@
             "theme-13",
             "theme-14",
             "theme-15",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
             "theme-20",
             "theme-21"
           ],
@@ -3491,7 +4117,10 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8",
+              "rule-9",
               "rule-11"
             ],
             [
@@ -3503,7 +4132,15 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
               "tech-17"
             ],
             [
@@ -3531,7 +4168,32 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
             ]
           ],
           "indirectDependencyNodeIds": [
@@ -3539,6 +4201,9 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
+            "rule-9",
             "theme-1",
             "tech-1",
             "tech-2",
@@ -3546,6 +4211,14 @@
             "tech-4",
             "tech-5",
             "tech-6",
+            "tech-8",
+            "tech-9",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
             "theme-2",
             "theme-3",
             "theme-4",
@@ -3558,7 +4231,18 @@
             "theme-11",
             "theme-12",
             "theme-13",
-            "theme-14"
+            "theme-14",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26"
           ],
           "sequenceId": "sequence:theme-28",
           "color": "#7b5961"
@@ -3591,7 +4275,10 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8",
+              "rule-9",
               "rule-11"
             ],
             [
@@ -3603,7 +4290,15 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
               "tech-17",
               "tech-18"
             ],
@@ -3632,7 +4327,32 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
             ],
             [
               "theme-28"
@@ -3643,6 +4363,9 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
+            "rule-9",
             "theme-1",
             "tech-1",
             "tech-2",
@@ -3650,6 +4373,14 @@
             "tech-4",
             "tech-5",
             "tech-6",
+            "tech-8",
+            "tech-9",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
             "theme-2",
             "theme-3",
             "theme-4",
@@ -3662,7 +4393,18 @@
             "theme-11",
             "theme-12",
             "theme-13",
-            "theme-14"
+            "theme-14",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26"
           ],
           "sequenceId": "sequence:theme-29",
           "color": "#805f4b"
@@ -3685,7 +4427,10 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8",
+              "rule-9",
               "rule-11"
             ],
             [
@@ -3697,7 +4442,15 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
               "tech-17",
               "tech-19"
             ],
@@ -3726,7 +4479,32 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
             ],
             [
               "theme-28"
@@ -3737,6 +4515,9 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
+            "rule-9",
             "theme-1",
             "tech-1",
             "tech-2",
@@ -3744,6 +4525,14 @@
             "tech-4",
             "tech-5",
             "tech-6",
+            "tech-8",
+            "tech-9",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
             "theme-2",
             "theme-3",
             "theme-4",
@@ -3756,7 +4545,18 @@
             "theme-11",
             "theme-12",
             "theme-13",
-            "theme-14"
+            "theme-14",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26"
           ],
           "sequenceId": "sequence:theme-30|theme-31|theme-33",
           "color": "#4e6f57"
@@ -3769,7 +4569,10 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8",
+              "rule-9",
               "rule-11"
             ],
             [
@@ -3781,7 +4584,15 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
               "tech-17",
               "tech-19"
             ],
@@ -3810,7 +4621,32 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
             ],
             [
               "theme-28"
@@ -3825,7 +4661,10 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
             "rule-8",
+            "rule-9",
             "theme-1",
             "tech-1",
             "tech-2",
@@ -3834,7 +4673,15 @@
             "tech-5",
             "tech-6",
             "tech-7",
+            "tech-8",
+            "tech-9",
             "tech-10",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
             "tech-17",
             "theme-2",
             "theme-3",
@@ -3850,7 +4697,18 @@
             "theme-13",
             "theme-14",
             "theme-15",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
             "theme-20",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26",
             "theme-28",
             "theme-30"
           ],
@@ -3881,7 +4739,10 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8",
+              "rule-9",
               "rule-11",
               "rule-10"
             ],
@@ -3894,7 +4755,15 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
               "tech-17",
               "tech-20"
             ],
@@ -3923,7 +4792,32 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
             ],
             [
               "theme-28"
@@ -3934,6 +4828,9 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
+            "rule-9",
             "theme-1",
             "tech-1",
             "tech-2",
@@ -3941,6 +4838,14 @@
             "tech-4",
             "tech-5",
             "tech-6",
+            "tech-8",
+            "tech-9",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
             "theme-2",
             "theme-3",
             "theme-4",
@@ -3953,7 +4858,18 @@
             "theme-11",
             "theme-12",
             "theme-13",
-            "theme-14"
+            "theme-14",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26"
           ],
           "sequenceId": "sequence:theme-32|theme-35|theme-37|theme-38",
           "color": "#7b5961"
@@ -3966,7 +4882,10 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8",
+              "rule-9",
               "rule-11"
             ],
             [
@@ -3978,7 +4897,15 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
               "tech-17",
               "tech-19"
             ],
@@ -4007,7 +4934,32 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
             ],
             [
               "theme-28"
@@ -4025,7 +4977,10 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
             "rule-8",
+            "rule-9",
             "rule-11",
             "theme-1",
             "tech-1",
@@ -4035,7 +4990,15 @@
             "tech-5",
             "tech-6",
             "tech-7",
+            "tech-8",
+            "tech-9",
             "tech-10",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
             "tech-17",
             "tech-19",
             "theme-2",
@@ -4052,7 +5015,18 @@
             "theme-13",
             "theme-14",
             "theme-15",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
             "theme-20",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26",
             "theme-28",
             "theme-30",
             "theme-31"
@@ -4068,7 +5042,10 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8",
+              "rule-9",
               "rule-11"
             ],
             [
@@ -4080,7 +5057,15 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
               "tech-17",
               "tech-18",
               "tech-19"
@@ -4110,7 +5095,32 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
             ],
             [
               "theme-28"
@@ -4132,7 +5142,10 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
             "rule-8",
+            "rule-9",
             "rule-11",
             "theme-1",
             "tech-1",
@@ -4142,7 +5155,15 @@
             "tech-5",
             "tech-6",
             "tech-7",
+            "tech-8",
+            "tech-9",
             "tech-10",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
             "tech-17",
             "tech-18",
             "tech-19",
@@ -4160,7 +5181,18 @@
             "theme-13",
             "theme-14",
             "theme-15",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
             "theme-20",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26",
             "theme-28",
             "theme-29",
             "theme-30",
@@ -4178,7 +5210,10 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8",
+              "rule-9",
               "rule-11",
               "rule-10"
             ],
@@ -4191,7 +5226,15 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
               "tech-17",
               "tech-20"
             ],
@@ -4220,7 +5263,32 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
             ],
             [
               "theme-28"
@@ -4235,7 +5303,10 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
             "rule-8",
+            "rule-9",
             "rule-11",
             "rule-10",
             "theme-1",
@@ -4246,7 +5317,15 @@
             "tech-5",
             "tech-6",
             "tech-7",
+            "tech-8",
+            "tech-9",
             "tech-10",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
             "tech-17",
             "tech-20",
             "theme-2",
@@ -4263,7 +5342,18 @@
             "theme-13",
             "theme-14",
             "theme-15",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
             "theme-20",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26",
             "theme-28",
             "theme-32"
           ],
@@ -4278,7 +5368,10 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8",
+              "rule-9",
               "rule-11"
             ],
             [
@@ -4290,7 +5383,15 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
               "tech-17",
               "tech-18",
               "tech-19"
@@ -4320,7 +5421,32 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
             ],
             [
               "theme-28"
@@ -4345,7 +5471,10 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
             "rule-8",
+            "rule-9",
             "rule-11",
             "theme-1",
             "tech-1",
@@ -4355,7 +5484,15 @@
             "tech-5",
             "tech-6",
             "tech-7",
+            "tech-8",
+            "tech-9",
             "tech-10",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
             "tech-17",
             "tech-18",
             "tech-19",
@@ -4373,7 +5510,18 @@
             "theme-13",
             "theme-14",
             "theme-15",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
             "theme-20",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26",
             "theme-28",
             "theme-29",
             "theme-30",
@@ -4392,7 +5540,10 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8",
+              "rule-9",
               "rule-11",
               "rule-10"
             ],
@@ -4405,7 +5556,15 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
               "tech-17",
               "tech-20"
             ],
@@ -4434,7 +5593,32 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
             ],
             [
               "theme-28"
@@ -4452,7 +5636,10 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
             "rule-8",
+            "rule-9",
             "rule-11",
             "rule-10",
             "theme-1",
@@ -4463,7 +5650,15 @@
             "tech-5",
             "tech-6",
             "tech-7",
+            "tech-8",
+            "tech-9",
             "tech-10",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
             "tech-17",
             "tech-20",
             "theme-2",
@@ -4480,7 +5675,18 @@
             "theme-13",
             "theme-14",
             "theme-15",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
             "theme-20",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26",
             "theme-28",
             "theme-32",
             "theme-35"
@@ -4496,7 +5702,10 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8",
+              "rule-9",
               "rule-11",
               "rule-10"
             ],
@@ -4509,7 +5718,15 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
               "tech-17",
               "tech-20"
             ],
@@ -4538,7 +5755,32 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
             ],
             [
               "theme-28"
@@ -4559,7 +5801,10 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
             "rule-8",
+            "rule-9",
             "rule-11",
             "rule-10",
             "theme-1",
@@ -4570,7 +5815,15 @@
             "tech-5",
             "tech-6",
             "tech-7",
+            "tech-8",
+            "tech-9",
             "tech-10",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
             "tech-17",
             "tech-20",
             "theme-2",
@@ -4587,7 +5840,18 @@
             "theme-13",
             "theme-14",
             "theme-15",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
             "theme-20",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26",
             "theme-28",
             "theme-32",
             "theme-35",
@@ -4604,7 +5868,10 @@
               "rule-3",
               "rule-4",
               "rule-5",
+              "rule-6",
+              "rule-7",
               "rule-8",
+              "rule-9",
               "rule-11",
               "rule-12"
             ],
@@ -4617,7 +5884,15 @@
               "tech-5",
               "tech-6",
               "tech-7",
+              "tech-8",
+              "tech-9",
               "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
               "tech-17",
               "tech-21"
             ],
@@ -4646,7 +5921,32 @@
               "theme-15"
             ],
             [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
               "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
             ],
             [
               "theme-28"
@@ -4657,6 +5957,9 @@
             "rule-3",
             "rule-4",
             "rule-5",
+            "rule-6",
+            "rule-7",
+            "rule-9",
             "theme-1",
             "tech-1",
             "tech-2",
@@ -4664,6 +5967,14 @@
             "tech-4",
             "tech-5",
             "tech-6",
+            "tech-8",
+            "tech-9",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
             "theme-2",
             "theme-3",
             "theme-4",
@@ -4676,7 +5987,18 @@
             "theme-11",
             "theme-12",
             "theme-13",
-            "theme-14"
+            "theme-14",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26"
           ],
           "sequenceId": "sequence:theme-39",
           "color": "#876446"
@@ -4696,6 +6018,1840 @@
           "indirectDependencyNodeIds": [],
           "sequenceId": "fixed:tech",
           "color": "#64d9dc"
+        },
+        "theme-40": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "rule-11",
+              "rule-10",
+              "rule-12",
+              "rule-13"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2",
+              "tech-3",
+              "tech-4",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-8",
+              "tech-9",
+              "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-17",
+              "tech-18",
+              "tech-19",
+              "tech-20",
+              "tech-21",
+              "tech-23"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-7",
+              "theme-8",
+              "theme-9",
+              "theme-10",
+              "theme-11",
+              "theme-12",
+              "theme-13",
+              "theme-14"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-29",
+              "theme-30",
+              "theme-32",
+              "theme-39"
+            ],
+            [
+              "theme-31",
+              "theme-35"
+            ],
+            [
+              "theme-33",
+              "theme-37"
+            ],
+            [
+              "theme-34",
+              "theme-38"
+            ],
+            [
+              "theme-36"
+            ]
+          ],
+          "indirectDependencyNodeIds": [
+            "rule-1",
+            "rule-3",
+            "rule-4",
+            "rule-5",
+            "rule-6",
+            "rule-7",
+            "rule-9",
+            "rule-10",
+            "rule-12",
+            "theme-1",
+            "tech-1",
+            "tech-2",
+            "tech-3",
+            "tech-4",
+            "tech-5",
+            "tech-6",
+            "tech-8",
+            "tech-9",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
+            "tech-18",
+            "tech-19",
+            "tech-20",
+            "tech-21",
+            "theme-2",
+            "theme-3",
+            "theme-4",
+            "theme-5",
+            "theme-6",
+            "theme-7",
+            "theme-8",
+            "theme-9",
+            "theme-10",
+            "theme-11",
+            "theme-12",
+            "theme-13",
+            "theme-14",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26",
+            "theme-29",
+            "theme-30",
+            "theme-32",
+            "theme-39",
+            "theme-31",
+            "theme-35",
+            "theme-33",
+            "theme-37",
+            "theme-34",
+            "theme-38",
+            "theme-36"
+          ],
+          "sequenceId": "sequence:theme-40",
+          "color": "#876446"
+        },
+        "rule-13": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "theme-41": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "rule-11",
+              "rule-10",
+              "rule-12",
+              "rule-13",
+              "tech-22"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2",
+              "tech-3",
+              "tech-4",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-8",
+              "tech-9",
+              "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-17",
+              "tech-18",
+              "tech-19",
+              "tech-20",
+              "tech-21",
+              "tech-23"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-7",
+              "theme-8",
+              "theme-9",
+              "theme-10",
+              "theme-11",
+              "theme-12",
+              "theme-13",
+              "theme-14"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-29",
+              "theme-30",
+              "theme-32",
+              "theme-39"
+            ],
+            [
+              "theme-31",
+              "theme-35"
+            ],
+            [
+              "theme-33",
+              "theme-37"
+            ],
+            [
+              "theme-34",
+              "theme-38"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-40"
+            ]
+          ],
+          "indirectDependencyNodeIds": [
+            "rule-1",
+            "rule-3",
+            "rule-4",
+            "rule-5",
+            "rule-6",
+            "rule-7",
+            "rule-9",
+            "rule-10",
+            "rule-12",
+            "theme-1",
+            "tech-1",
+            "tech-2",
+            "tech-3",
+            "tech-4",
+            "tech-5",
+            "tech-6",
+            "tech-8",
+            "tech-9",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
+            "tech-18",
+            "tech-19",
+            "tech-20",
+            "tech-21",
+            "theme-2",
+            "theme-3",
+            "theme-4",
+            "theme-5",
+            "theme-6",
+            "theme-7",
+            "theme-8",
+            "theme-9",
+            "theme-10",
+            "theme-11",
+            "theme-12",
+            "theme-13",
+            "theme-14",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26",
+            "theme-29",
+            "theme-30",
+            "theme-32",
+            "theme-39",
+            "theme-31",
+            "theme-35",
+            "theme-33",
+            "theme-37",
+            "theme-34",
+            "theme-38",
+            "theme-36"
+          ],
+          "sequenceId": "sequence:theme-41|theme-42",
+          "color": "#53698a"
+        },
+        "tech-22": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-42": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "rule-11",
+              "rule-10",
+              "rule-12",
+              "rule-13",
+              "tech-22"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2",
+              "tech-3",
+              "tech-4",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-8",
+              "tech-9",
+              "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-17",
+              "tech-18",
+              "tech-19",
+              "tech-20",
+              "tech-21",
+              "tech-23"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-7",
+              "theme-8",
+              "theme-9",
+              "theme-10",
+              "theme-11",
+              "theme-12",
+              "theme-13",
+              "theme-14"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-29",
+              "theme-30",
+              "theme-32",
+              "theme-39"
+            ],
+            [
+              "theme-31",
+              "theme-35"
+            ],
+            [
+              "theme-33",
+              "theme-37"
+            ],
+            [
+              "theme-34",
+              "theme-38"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-40"
+            ],
+            [
+              "theme-41"
+            ]
+          ],
+          "indirectDependencyNodeIds": [
+            "rule-1",
+            "rule-2",
+            "rule-3",
+            "rule-4",
+            "rule-5",
+            "rule-6",
+            "rule-7",
+            "rule-8",
+            "rule-9",
+            "rule-11",
+            "rule-10",
+            "rule-12",
+            "rule-13",
+            "tech-22",
+            "theme-1",
+            "tech-1",
+            "tech-2",
+            "tech-3",
+            "tech-4",
+            "tech-5",
+            "tech-6",
+            "tech-7",
+            "tech-8",
+            "tech-9",
+            "tech-10",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
+            "tech-17",
+            "tech-18",
+            "tech-19",
+            "tech-20",
+            "tech-21",
+            "tech-23",
+            "theme-2",
+            "theme-3",
+            "theme-4",
+            "theme-5",
+            "theme-6",
+            "theme-7",
+            "theme-8",
+            "theme-9",
+            "theme-10",
+            "theme-11",
+            "theme-12",
+            "theme-13",
+            "theme-14",
+            "theme-15",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
+            "theme-20",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26",
+            "theme-28",
+            "theme-29",
+            "theme-30",
+            "theme-32",
+            "theme-39",
+            "theme-31",
+            "theme-35",
+            "theme-33",
+            "theme-37",
+            "theme-34",
+            "theme-38",
+            "theme-36",
+            "theme-40",
+            "theme-41"
+          ],
+          "sequenceId": "sequence:theme-41|theme-42",
+          "color": "#53698a"
+        },
+        "theme-43": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "rule-11",
+              "rule-10",
+              "rule-12",
+              "rule-13",
+              "tech-24"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2",
+              "tech-3",
+              "tech-4",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-8",
+              "tech-9",
+              "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-17",
+              "tech-18",
+              "tech-19",
+              "tech-20",
+              "tech-21",
+              "tech-23"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-7",
+              "theme-8",
+              "theme-9",
+              "theme-10",
+              "theme-11",
+              "theme-12",
+              "theme-13",
+              "theme-14"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-29",
+              "theme-30",
+              "theme-32",
+              "theme-39"
+            ],
+            [
+              "theme-31",
+              "theme-35"
+            ],
+            [
+              "theme-33",
+              "theme-37"
+            ],
+            [
+              "theme-34",
+              "theme-38"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-40"
+            ]
+          ],
+          "indirectDependencyNodeIds": [
+            "rule-1",
+            "rule-3",
+            "rule-4",
+            "rule-5",
+            "rule-6",
+            "rule-7",
+            "rule-9",
+            "rule-10",
+            "rule-12",
+            "theme-1",
+            "tech-1",
+            "tech-2",
+            "tech-3",
+            "tech-4",
+            "tech-5",
+            "tech-6",
+            "tech-8",
+            "tech-9",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
+            "tech-18",
+            "tech-19",
+            "tech-20",
+            "tech-21",
+            "theme-2",
+            "theme-3",
+            "theme-4",
+            "theme-5",
+            "theme-6",
+            "theme-7",
+            "theme-8",
+            "theme-9",
+            "theme-10",
+            "theme-11",
+            "theme-12",
+            "theme-13",
+            "theme-14",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26",
+            "theme-29",
+            "theme-30",
+            "theme-32",
+            "theme-39",
+            "theme-31",
+            "theme-35",
+            "theme-33",
+            "theme-37",
+            "theme-34",
+            "theme-38",
+            "theme-36"
+          ],
+          "sequenceId": "sequence:theme-43",
+          "color": "#805f4b"
+        },
+        "theme-44": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "rule-11",
+              "rule-10",
+              "rule-12",
+              "rule-13"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2",
+              "tech-3",
+              "tech-4",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-8",
+              "tech-9",
+              "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-17",
+              "tech-18",
+              "tech-19",
+              "tech-20",
+              "tech-21",
+              "tech-23"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-7",
+              "theme-8",
+              "theme-9",
+              "theme-10",
+              "theme-11",
+              "theme-12",
+              "theme-13",
+              "theme-14"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-29",
+              "theme-30",
+              "theme-32",
+              "theme-39"
+            ],
+            [
+              "theme-31",
+              "theme-35"
+            ],
+            [
+              "theme-33",
+              "theme-37"
+            ],
+            [
+              "theme-34",
+              "theme-38"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-40"
+            ]
+          ],
+          "indirectDependencyNodeIds": [
+            "rule-1",
+            "rule-3",
+            "rule-4",
+            "rule-5",
+            "rule-6",
+            "rule-7",
+            "rule-9",
+            "rule-10",
+            "rule-12",
+            "theme-1",
+            "tech-1",
+            "tech-2",
+            "tech-3",
+            "tech-4",
+            "tech-5",
+            "tech-6",
+            "tech-8",
+            "tech-9",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
+            "tech-18",
+            "tech-19",
+            "tech-20",
+            "tech-21",
+            "theme-2",
+            "theme-3",
+            "theme-4",
+            "theme-5",
+            "theme-6",
+            "theme-7",
+            "theme-8",
+            "theme-9",
+            "theme-10",
+            "theme-11",
+            "theme-12",
+            "theme-13",
+            "theme-14",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26",
+            "theme-29",
+            "theme-30",
+            "theme-32",
+            "theme-39",
+            "theme-31",
+            "theme-35",
+            "theme-33",
+            "theme-37",
+            "theme-34",
+            "theme-38",
+            "theme-36"
+          ],
+          "sequenceId": "sequence:theme-44|theme-46",
+          "color": "#426b73"
+        },
+        "tech-23": {
+          "dependencyLayers": [
+            [
+              "rule-13"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-45": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "rule-11",
+              "rule-10",
+              "rule-12",
+              "rule-13",
+              "tech-24"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2",
+              "tech-3",
+              "tech-4",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-8",
+              "tech-9",
+              "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-17",
+              "tech-18",
+              "tech-19",
+              "tech-20",
+              "tech-21",
+              "tech-23"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-7",
+              "theme-8",
+              "theme-9",
+              "theme-10",
+              "theme-11",
+              "theme-12",
+              "theme-13",
+              "theme-14"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-29",
+              "theme-30",
+              "theme-32",
+              "theme-39"
+            ],
+            [
+              "theme-31",
+              "theme-35"
+            ],
+            [
+              "theme-33",
+              "theme-37"
+            ],
+            [
+              "theme-34",
+              "theme-38"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-40"
+            ]
+          ],
+          "indirectDependencyNodeIds": [
+            "rule-1",
+            "rule-3",
+            "rule-4",
+            "rule-5",
+            "rule-6",
+            "rule-7",
+            "rule-9",
+            "rule-10",
+            "rule-12",
+            "theme-1",
+            "tech-1",
+            "tech-2",
+            "tech-3",
+            "tech-4",
+            "tech-5",
+            "tech-6",
+            "tech-8",
+            "tech-9",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
+            "tech-18",
+            "tech-19",
+            "tech-20",
+            "tech-21",
+            "theme-2",
+            "theme-3",
+            "theme-4",
+            "theme-5",
+            "theme-6",
+            "theme-7",
+            "theme-8",
+            "theme-9",
+            "theme-10",
+            "theme-11",
+            "theme-12",
+            "theme-13",
+            "theme-14",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26",
+            "theme-29",
+            "theme-30",
+            "theme-32",
+            "theme-39",
+            "theme-31",
+            "theme-35",
+            "theme-33",
+            "theme-37",
+            "theme-34",
+            "theme-38",
+            "theme-36"
+          ],
+          "sequenceId": "sequence:theme-45",
+          "color": "#725c82"
+        },
+        "theme-46": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "rule-11",
+              "rule-10",
+              "rule-12",
+              "rule-13",
+              "tech-25"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2",
+              "tech-3",
+              "tech-4",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-8",
+              "tech-9",
+              "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-17",
+              "tech-18",
+              "tech-19",
+              "tech-20",
+              "tech-21",
+              "tech-23"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-7",
+              "theme-8",
+              "theme-9",
+              "theme-10",
+              "theme-11",
+              "theme-12",
+              "theme-13",
+              "theme-14"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-29",
+              "theme-30",
+              "theme-32",
+              "theme-39"
+            ],
+            [
+              "theme-31",
+              "theme-35"
+            ],
+            [
+              "theme-33",
+              "theme-37"
+            ],
+            [
+              "theme-34",
+              "theme-38"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-40"
+            ],
+            [
+              "theme-44"
+            ]
+          ],
+          "indirectDependencyNodeIds": [
+            "rule-1",
+            "rule-2",
+            "rule-3",
+            "rule-4",
+            "rule-5",
+            "rule-6",
+            "rule-7",
+            "rule-8",
+            "rule-9",
+            "rule-11",
+            "rule-10",
+            "rule-12",
+            "rule-13",
+            "theme-1",
+            "tech-1",
+            "tech-2",
+            "tech-3",
+            "tech-4",
+            "tech-5",
+            "tech-6",
+            "tech-7",
+            "tech-8",
+            "tech-9",
+            "tech-10",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
+            "tech-17",
+            "tech-18",
+            "tech-19",
+            "tech-20",
+            "tech-21",
+            "tech-23",
+            "theme-2",
+            "theme-3",
+            "theme-4",
+            "theme-5",
+            "theme-6",
+            "theme-7",
+            "theme-8",
+            "theme-9",
+            "theme-10",
+            "theme-11",
+            "theme-12",
+            "theme-13",
+            "theme-14",
+            "theme-15",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
+            "theme-20",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26",
+            "theme-28",
+            "theme-29",
+            "theme-30",
+            "theme-32",
+            "theme-39",
+            "theme-31",
+            "theme-35",
+            "theme-33",
+            "theme-37",
+            "theme-34",
+            "theme-38",
+            "theme-36",
+            "theme-40",
+            "theme-44"
+          ],
+          "sequenceId": "sequence:theme-44|theme-46",
+          "color": "#426b73"
+        },
+        "tech-24": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "tech-25": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-47": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "rule-11",
+              "rule-10",
+              "rule-12",
+              "rule-13",
+              "rule-14"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2",
+              "tech-3",
+              "tech-4",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-8",
+              "tech-9",
+              "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-17",
+              "tech-18",
+              "tech-19",
+              "tech-20",
+              "tech-21",
+              "tech-23",
+              "tech-26"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-7",
+              "theme-8",
+              "theme-9",
+              "theme-10",
+              "theme-11",
+              "theme-12",
+              "theme-13",
+              "theme-14"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-29",
+              "theme-30",
+              "theme-32",
+              "theme-39"
+            ],
+            [
+              "theme-31",
+              "theme-35"
+            ],
+            [
+              "theme-33",
+              "theme-37"
+            ],
+            [
+              "theme-34",
+              "theme-38"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-40"
+            ]
+          ],
+          "indirectDependencyNodeIds": [
+            "rule-1",
+            "rule-3",
+            "rule-4",
+            "rule-5",
+            "rule-6",
+            "rule-7",
+            "rule-9",
+            "rule-10",
+            "rule-12",
+            "theme-1",
+            "tech-1",
+            "tech-2",
+            "tech-3",
+            "tech-4",
+            "tech-5",
+            "tech-6",
+            "tech-8",
+            "tech-9",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
+            "tech-18",
+            "tech-19",
+            "tech-20",
+            "tech-21",
+            "theme-2",
+            "theme-3",
+            "theme-4",
+            "theme-5",
+            "theme-6",
+            "theme-7",
+            "theme-8",
+            "theme-9",
+            "theme-10",
+            "theme-11",
+            "theme-12",
+            "theme-13",
+            "theme-14",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26",
+            "theme-29",
+            "theme-30",
+            "theme-32",
+            "theme-39",
+            "theme-31",
+            "theme-35",
+            "theme-33",
+            "theme-37",
+            "theme-34",
+            "theme-38",
+            "theme-36"
+          ],
+          "sequenceId": "sequence:theme-47",
+          "color": "#4e6f57"
+        },
+        "rule-14": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "tech-26": {
+          "dependencyLayers": [
+            [
+              "rule-14"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-48": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "rule-11",
+              "rule-10",
+              "rule-12",
+              "rule-13",
+              "tech-22",
+              "tech-24",
+              "tech-25",
+              "rule-14",
+              "rule-15"
+            ],
+            [
+              "theme-1",
+              "tech-1",
+              "tech-2",
+              "tech-3",
+              "tech-4",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-8",
+              "tech-9",
+              "tech-10",
+              "tech-11",
+              "tech-12",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-17",
+              "tech-18",
+              "tech-19",
+              "tech-20",
+              "tech-21",
+              "tech-23",
+              "tech-26",
+              "tech-27"
+            ],
+            [
+              "theme-2"
+            ],
+            [
+              "theme-3",
+              "theme-4",
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-7",
+              "theme-8",
+              "theme-9",
+              "theme-10",
+              "theme-11",
+              "theme-12",
+              "theme-13",
+              "theme-14"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-16"
+            ],
+            [
+              "theme-17",
+              "theme-19"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-21",
+              "theme-22"
+            ],
+            [
+              "theme-23",
+              "theme-25",
+              "theme-27"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-26"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-29",
+              "theme-30",
+              "theme-32",
+              "theme-39"
+            ],
+            [
+              "theme-31",
+              "theme-35"
+            ],
+            [
+              "theme-33",
+              "theme-37"
+            ],
+            [
+              "theme-34",
+              "theme-38"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-40"
+            ],
+            [
+              "theme-41",
+              "theme-43",
+              "theme-44",
+              "theme-45",
+              "theme-47"
+            ],
+            [
+              "theme-42",
+              "theme-46"
+            ]
+          ],
+          "indirectDependencyNodeIds": [
+            "rule-1",
+            "rule-3",
+            "rule-4",
+            "rule-5",
+            "rule-6",
+            "rule-7",
+            "rule-9",
+            "rule-10",
+            "rule-12",
+            "tech-22",
+            "theme-1",
+            "tech-1",
+            "tech-2",
+            "tech-3",
+            "tech-4",
+            "tech-5",
+            "tech-6",
+            "tech-8",
+            "tech-9",
+            "tech-11",
+            "tech-12",
+            "tech-13",
+            "tech-14",
+            "tech-15",
+            "tech-16",
+            "tech-18",
+            "tech-19",
+            "tech-20",
+            "tech-21",
+            "theme-2",
+            "theme-3",
+            "theme-4",
+            "theme-5",
+            "theme-6",
+            "theme-7",
+            "theme-8",
+            "theme-9",
+            "theme-10",
+            "theme-11",
+            "theme-12",
+            "theme-13",
+            "theme-14",
+            "theme-16",
+            "theme-17",
+            "theme-19",
+            "theme-18",
+            "theme-21",
+            "theme-22",
+            "theme-23",
+            "theme-25",
+            "theme-27",
+            "theme-24",
+            "theme-26",
+            "theme-29",
+            "theme-30",
+            "theme-32",
+            "theme-39",
+            "theme-31",
+            "theme-35",
+            "theme-33",
+            "theme-37",
+            "theme-34",
+            "theme-38",
+            "theme-36",
+            "theme-41",
+            "theme-44"
+          ],
+          "sequenceId": "sequence:theme-48",
+          "color": "#876446"
+        },
+        "tech-27": {
+          "dependencyLayers": [
+            [
+              "rule-13"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "rule-15": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
         }
       }
     }
