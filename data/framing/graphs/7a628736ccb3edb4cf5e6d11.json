@@ -6,25 +6,6881 @@
     "nodes": [
       {
         "id": "node-1",
+        "type": "theme",
         "insights": [
-          ""
+          "推箱：传统推箱子技巧考验"
         ],
         "position": {
-          "x": -118,
-          "y": -62
+          "x": -394.86183898132623,
+          "y": -6.889680283356121
         }
       },
       {
         "id": "node-2",
+        "type": "theme",
         "insights": [
-          ""
+          "十字路口：带环形的十字通行技巧"
         ],
         "position": {
-          "x": -90,
-          "y": -62
+          "x": 944.0972593770446,
+          "y": 185.18711405739168
+        }
+      },
+      {
+        "id": "rule-1",
+        "type": "rule",
+        "insights": [
+          "单个箱子可以推动",
+          "目标是让角色到达出口"
+        ],
+        "position": {
+          "x": -659.3005054526104,
+          "y": -791.1311099599866
+        }
+      },
+      {
+        "id": "tech-1",
+        "type": "tech",
+        "insights": [
+          "传统推箱子技术",
+          "一个门需要多个触发器被踩下"
+        ],
+        "position": {
+          "x": -357.3355507722022,
+          "y": -362.83825213775555
+        }
+      },
+      {
+        "id": "rule-2",
+        "type": "rule",
+        "insights": [
+          "杯子可以从开放面进去",
+          "杯子内外都可以推动",
+          "进去优先级大于推动"
+        ],
+        "position": {
+          "x": 751.7650701001246,
+          "y": -1400.318288194288
+        }
+      },
+      {
+        "id": "tech-2",
+        "type": "tech",
+        "insights": [
+          "箱子目标单向限制只能坐杯子返回"
+        ],
+        "position": {
+          "x": 1033.8086293801698,
+          "y": -475.00262995253723
+        }
+      },
+      {
+        "id": "tech-3",
+        "type": "tech",
+        "insights": [
+          "借位"
+        ],
+        "position": {
+          "x": 817.1742316978386,
+          "y": -107.02231444461687
+        }
+      },
+      {
+        "id": "theme-1",
+        "type": "theme",
+        "insights": [
+          "坐杯：杯子的其他面的外部推动"
+        ],
+        "position": {
+          "x": 1216.5821090165468,
+          "y": 260.48413885808867
+        }
+      },
+      {
+        "id": "tech-4",
+        "type": "tech",
+        "insights": [
+          "箱子/杯子一旦套娃无法解开    "
+        ],
+        "position": {
+          "x": 1422.7353815536362,
+          "y": -380.8948430053397
+        }
+      },
+      {
+        "id": "rule-3",
+        "type": "rule",
+        "insights": [
+          "掉到海里会死"
+        ],
+        "position": {
+          "x": 7106.307792652697,
+          "y": 88.46982348971397
+        }
+      },
+      {
+        "id": "theme-2",
+        "type": "theme",
+        "insights": [
+          "教学"
+        ],
+        "position": {
+          "x": -724.0563971715134,
+          "y": -18.257920279469968
+        }
+      },
+      {
+        "id": "theme-3",
+        "type": "theme",
+        "insights": [
+          "复位：180度杯子+90度“箱子”"
+        ],
+        "position": {
+          "x": 615.066754012664,
+          "y": 202.26450716927715
+        }
+      },
+      {
+        "id": "tech-5",
+        "type": "tech",
+        "insights": [
+          "2x2足够外部180度转向一个杯子",
+          "在杯子内部也可以递推外部箱子"
+        ],
+        "position": {
+          "x": 666.8837704462737,
+          "y": -276.2163688449216
+        }
+      },
+      {
+        "id": "tech-6",
+        "type": "tech",
+        "insights": [
+          "坐着杯子可以一起通过狭小路径"
+        ],
+        "position": {
+          "x": 377.8705193297587,
+          "y": -366.0902189461475
+        }
+      },
+      {
+        "id": "theme-4",
+        "type": "theme",
+        "insights": [
+          "狭路"
+        ],
+        "position": {
+          "x": 293.5612826943434,
+          "y": 269.4039212676645
+        }
+      },
+      {
+        "id": "rule-4",
+        "type": "rule",
+        "insights": [
+          "箱子可以递推"
+        ],
+        "position": {
+          "x": 205.25720893695342,
+          "y": -918.3537138489621
+        }
+      },
+      {
+        "id": "tech-7",
+        "type": "tech",
+        "insights": [
+          "递推的箱子需要另一个方向错开"
+        ],
+        "position": {
+          "x": -50.93986549669839,
+          "y": -533.0332833395479
+        }
+      },
+      {
+        "id": "theme-5",
+        "type": "theme",
+        "insights": [
+          "套娃：借位防止套娃"
+        ],
+        "position": {
+          "x": 1714.9811555458848,
+          "y": 257.2174326609659
+        }
+      },
+      {
+        "id": "rule-5",
+        "type": "rule",
+        "insights": [
+          "杯子的开口边也可以递推"
+        ],
+        "position": {
+          "x": 1664.5180395041632,
+          "y": -702.7295135646865
+        }
+      },
+      {
+        "id": "theme-6",
+        "type": "theme",
+        "insights": [
+          "吊下：开口方向也可以反推"
+        ],
+        "position": {
+          "x": 1901.9107719715723,
+          "y": 427.819914036608
+        }
+      },
+      {
+        "id": "tech-8",
+        "type": "tech",
+        "insights": [
+          "杯子接应技巧"
+        ],
+        "position": {
+          "x": 1962.9804196378668,
+          "y": -453.5494194235994
+        }
+      },
+      {
+        "id": "theme-7",
+        "type": "theme",
+        "insights": [
+          "推杯：第一次接触杯子"
+        ],
+        "position": {
+          "x": -85.87941349652068,
+          "y": -12.026091503675843
+        }
+      },
+      {
+        "id": "theme-8",
+        "type": "theme",
+        "insights": [
+          "暂存：利用接应和借位技巧多次操作的挑战关"
+        ],
+        "position": {
+          "x": 2189.2472983216785,
+          "y": 282.4539029087606
+        }
+      },
+      {
+        "id": "theme-9",
+        "type": "theme",
+        "insights": [
+          "沉底：欲盖弥彰的趣味关，用到暂存技巧"
+        ],
+        "position": {
+          "x": 2499.698922311759,
+          "y": 284.3095443919508
+        }
+      },
+      {
+        "id": "rule-6",
+        "type": "rule",
+        "insights": [
+          "触发器可以有多个"
+        ],
+        "position": {
+          "x": 187.75651242734907,
+          "y": -187.67421812471292
+        }
+      },
+      {
+        "id": "rule-7",
+        "type": "rule",
+        "insights": [
+          "杯子可以套娃一起移动"
+        ],
+        "position": {
+          "x": 4957.409117800433,
+          "y": -1063.4215934850954
+        }
+      },
+      {
+        "id": "tech-9",
+        "type": "tech",
+        "insights": [
+          "关系为90度的杯子可以套娃",
+          "可以用杯子救杯子"
+        ],
+        "position": {
+          "x": 4678.261746723179,
+          "y": -49.92968449607851
+        }
+      },
+      {
+        "id": "theme-10",
+        "type": "theme",
+        "insights": [
+          "套杯：教学"
+        ],
+        "position": {
+          "x": 3954.6668693634547,
+          "y": 670.7918363250246
+        }
+      },
+      {
+        "id": "theme-11",
+        "type": "theme",
+        "insights": [
+          "雨外：教学"
+        ],
+        "position": {
+          "x": 2972.739389046479,
+          "y": 23.981913645311693
+        }
+      },
+      {
+        "id": "rule-8",
+        "type": "rule",
+        "insights": [
+          "角色顶部直接碰到雨就会死"
+        ],
+        "position": {
+          "x": 2990.3323675787133,
+          "y": -511.65669400047364
+        }
+      },
+      {
+        "id": "tech-10",
+        "type": "tech",
+        "insights": [
+          "杯子可以隔绝雨"
+        ],
+        "position": {
+          "x": 2972.827242288229,
+          "y": -303.68178457146007
+        }
+      },
+      {
+        "id": "theme-12",
+        "type": "theme",
+        "insights": [
+          "卡门：可选关"
+        ],
+        "position": {
+          "x": 1517.5625286134646,
+          "y": 480.2927693951825
+        }
+      },
+      {
+        "id": "tech-11",
+        "type": "tech",
+        "insights": [
+          "门和触发器挨着的情况下，可以碾过去"
+        ],
+        "position": {
+          "x": 438.4740795389972,
+          "y": -1127.3879438634272
+        }
+      },
+      {
+        "id": "rule-9",
+        "type": "rule",
+        "insights": [
+          "箱子和角色都可以踩在触发器上"
+        ],
+        "position": {
+          "x": 4.32241154584055,
+          "y": -1500.6347466976574
+        }
+      },
+      {
+        "id": "theme-13",
+        "type": "theme",
+        "insights": [
+          "渡河：对口杯子的互相推挤"
+        ],
+        "position": {
+          "x": 3307.72276350946,
+          "y": 25.77685894639093
+        }
+      },
+      {
+        "id": "tech-12",
+        "type": "tech",
+        "insights": [
+          "对口杯子技巧"
+        ],
+        "position": {
+          "x": 3623.834378738703,
+          "y": -339.8057755121786
+        }
+      },
+      {
+        "id": "theme-14",
+        "type": "theme",
+        "insights": [
+          "泥潭：对口杯子的挑战关卡"
+        ],
+        "position": {
+          "x": 3722.1873357093236,
+          "y": 25.422967318273745
+        }
+      },
+      {
+        "id": "theme-15",
+        "type": "theme",
+        "insights": [
+          "救出：拯救边缘的杯子"
+        ],
+        "position": {
+          "x": 4582.889568498163,
+          "y": 693.2698579277792
+        }
+      },
+      {
+        "id": "tech-13",
+        "type": "tech",
+        "insights": [
+          "2x2x2构型"
+        ],
+        "position": {
+          "x": 4913.797532887742,
+          "y": -187.95496901141763
+        }
+      },
+      {
+        "id": "theme-16",
+        "type": "theme",
+        "insights": [
+          "交替：每个房间都改变套娃状态"
+        ],
+        "position": {
+          "x": 5589.988645900488,
+          "y": 563.23955849722
+        }
+      },
+      {
+        "id": "tech-14",
+        "type": "tech",
+        "insights": [
+          "3x2构型，某些情况下缺角也可以"
+        ],
+        "position": {
+          "x": 5274.872801842053,
+          "y": -177.40865414269615
+        }
+      },
+      {
+        "id": "theme-17",
+        "type": "theme",
+        "insights": [
+          "三重门：3x2的挑战"
+        ],
+        "position": {
+          "x": 6570.3708067585985,
+          "y": 559.6218410955479
+        }
+      },
+      {
+        "id": "theme-19",
+        "type": "theme",
+        "insights": [
+          "小空间：3x2-2构型加小空间腾挪"
+        ],
+        "position": {
+          "x": 5799.496088755301,
+          "y": 764.9716209710015
+        }
+      },
+      {
+        "id": "tech-15",
+        "type": "tech",
+        "insights": [
+          "3x3-2构型"
+        ],
+        "position": {
+          "x": 5576.574436136911,
+          "y": -181.41108149261265
+        }
+      },
+      {
+        "id": "theme-20",
+        "type": "theme",
+        "insights": [
+          "震荡：3x2-2和2x2x2构型混合"
+        ],
+        "position": {
+          "x": 6189.52475116466,
+          "y": 773.7166322642615
+        }
+      },
+      {
+        "id": "theme-21",
+        "type": "theme",
+        "insights": [
+          "雨桥：基本3x2构型和反推"
+        ],
+        "position": {
+          "x": 4907.423436772172,
+          "y": 706.6784604430501
+        }
+      },
+      {
+        "id": "theme-18",
+        "type": "theme",
+        "insights": [
+          "电梯序列：练习序列"
+        ],
+        "position": {
+          "x": 5204.966075789911,
+          "y": 710.1306021328347
+        }
+      },
+      {
+        "id": "theme-22",
+        "type": "theme",
+        "insights": [
+          "接回：结合雨的套娃直觉"
+        ],
+        "position": {
+          "x": 4267.115914939348,
+          "y": 674.1462819955756
+        }
+      },
+      {
+        "id": "theme-23",
+        "type": "theme",
+        "insights": [
+          "潜水：组合推动，你也可以不套娃"
+        ],
+        "position": {
+          "x": 6242.5045977203235,
+          "y": 1206.8297748395082
+        }
+      },
+      {
+        "id": "theme-24",
+        "type": "theme",
+        "insights": [
+          "地雷"
+        ],
+        "position": {
+          "x": 7220.421523865797,
+          "y": 728.5569749515291
+        }
+      },
+      {
+        "id": "rule-10",
+        "type": "rule",
+        "insights": [
+          "地雷踩上再松开地板就会炸碎"
+        ],
+        "position": {
+          "x": 7551.727909070905,
+          "y": 25.184345643252158
+        }
+      },
+      {
+        "id": "tech-16",
+        "type": "tech",
+        "insights": [
+          "地雷一直压着就不会炸"
+        ],
+        "position": {
+          "x": 7521.117512169648,
+          "y": 394.096707411351
+        }
+      },
+      {
+        "id": "theme-25",
+        "type": "theme",
+        "insights": [
+          "锚点：考察压着的挑战谜题"
+        ],
+        "position": {
+          "x": 8201.722224854031,
+          "y": 745.832437289845
+        }
+      },
+      {
+        "id": "theme-26",
+        "type": "theme",
+        "insights": [
+          "穿越雷区"
+        ],
+        "position": {
+          "x": 7874.440413389859,
+          "y": 749.193178380377
+        }
+      },
+      {
+        "id": "tech-17",
+        "type": "tech",
+        "insights": [
+          "雷区可以强制路线"
+        ],
+        "position": {
+          "x": 7854.800195836058,
+          "y": 384.7750215956257
+        }
+      },
+      {
+        "id": "theme-27",
+        "type": "theme",
+        "insights": [
+          "谨慎：结合套娃的压雷"
+        ],
+        "position": {
+          "x": 7942.295430785814,
+          "y": 975.2971752274592
+        }
+      },
+      {
+        "id": "tech-18",
+        "type": "tech",
+        "insights": [
+          "套娃套到三个杯子"
+        ],
+        "position": {
+          "x": 6216.863553429446,
+          "y": -123.42855052616582
+        }
+      },
+      {
+        "id": "theme-28",
+        "type": "theme",
+        "insights": [
+          "狭路：考察雷区路线"
+        ],
+        "position": {
+          "x": 7532.305042964874,
+          "y": 753.4104005455473
+        }
+      },
+      {
+        "id": "theme-29",
+        "type": "theme",
+        "insights": [
+          "顺序：并不需要套娃的腾挪挑战关卡"
+        ],
+        "position": {
+          "x": 8261.985623614044,
+          "y": 1209.7756144622897
+        }
+      },
+      {
+        "id": "theme-30",
+        "type": "theme",
+        "insights": [
+          "鱼骨：三个套娃的入门谜题"
+        ],
+        "position": {
+          "x": 8341.297000163499,
+          "y": 975.6309328001103
+        }
+      },
+      {
+        "id": "theme-31",
+        "type": "theme",
+        "insights": [
+          "通过：找到排列顺序的谜题"
+        ],
+        "position": {
+          "x": 7885.183734223971,
+          "y": 1203.9903293634181
+        }
+      },
+      {
+        "id": "theme-32",
+        "type": "theme",
+        "insights": [
+          "换位：排序挑战管"
+        ],
+        "position": {
+          "x": 8594.942501182368,
+          "y": 1216.687517109105
+        }
+      },
+      {
+        "id": "theme-33",
+        "type": "theme",
+        "insights": [
+          "提前规划：部分套娃"
+        ],
+        "position": {
+          "x": 8823.518058809123,
+          "y": 1009.9674232917678
+        }
+      },
+      {
+        "id": "theme-34",
+        "type": "theme",
+        "insights": [
+          "打包：4个杯子"
+        ],
+        "position": {
+          "x": 9046.945645066635,
+          "y": 763.7386803103698
+        }
+      },
+      {
+        "id": "tech-19",
+        "type": "tech",
+        "insights": [
+          "十字错位非套娃排序法"
+        ],
+        "position": {
+          "x": 7524.664862083416,
+          "y": 942.3216689172075
+        }
+      },
+      {
+        "id": "theme-35",
+        "type": "theme",
+        "insights": [
+          "粘壁：介绍关卡"
+        ],
+        "position": {
+          "x": 11363.166069755247,
+          "y": 736.6960260066763
+        }
+      },
+      {
+        "id": "theme-36",
+        "type": "theme",
+        "insights": [
+          "猛击教学"
+        ],
+        "position": {
+          "x": 9508.288305000604,
+          "y": 820.5188757760843
+        }
+      },
+      {
+        "id": "tech-20",
+        "type": "tech",
+        "insights": [
+          "可推动物体会被推远一个格子"
+        ],
+        "position": {
+          "x": 9681.241577854551,
+          "y": 518.7254480132534
+        }
+      },
+      {
+        "id": "rule-11",
+        "type": "rule",
+        "insights": [
+          "猛击：对身前的对象施加击打"
+        ],
+        "position": {
+          "x": 9690.522078555448,
+          "y": 247.8250439374846
+        }
+      },
+      {
+        "id": "rule-12",
+        "type": "rule",
+        "insights": [
+          "墙壁可以传递猛击"
+        ],
+        "position": {
+          "x": 9347.374010133406,
+          "y": 330.02384425193793
+        }
+      },
+      {
+        "id": "theme-37",
+        "type": "theme",
+        "insights": [
+          "隔山打牛：需要一次反打，有误导"
+        ],
+        "position": {
+          "x": 9898.736111475322,
+          "y": 821.5744964724282
+        }
+      },
+      {
+        "id": "theme-38",
+        "type": "theme",
+        "insights": [
+          "瓶底：猛击规划"
+        ],
+        "position": {
+          "x": 9904.641252458838,
+          "y": 1041.7158082299563
+        }
+      },
+      {
+        "id": "rule-13",
+        "type": "rule",
+        "insights": [
+          "杯子内部猛击杯子会带着角色走"
+        ],
+        "position": {
+          "x": 10029.530114123545,
+          "y": 238.33604560825688
+        }
+      },
+      {
+        "id": "tech-21",
+        "type": "tech",
+        "insights": [
+          "杯子开口可以猛击"
+        ],
+        "position": {
+          "x": 10246.805002550884,
+          "y": 512.611809401396
+        }
+      },
+      {
+        "id": "theme-39",
+        "type": "theme",
+        "insights": [
+          "雨路：开口击打的神奇路径"
+        ],
+        "position": {
+          "x": 10284.580091091153,
+          "y": 824.2973225750997
+        }
+      },
+      {
+        "id": "theme-40",
+        "type": "theme",
+        "insights": [
+          "雨巷：综合挑战"
+        ],
+        "position": {
+          "x": 10583.544843445758,
+          "y": 963.8041900754477
+        }
+      },
+      {
+        "id": "theme-41",
+        "type": "theme",
+        "insights": [
+          "疏通：结合套娃的猛击"
+        ],
+        "position": {
+          "x": 10921.539751839011,
+          "y": 969.4143910479149
+        }
+      },
+      {
+        "id": "rule-14",
+        "type": "rule",
+        "insights": [
+          "箱子/杯子从粘粘墙壁上离开会沿着离开方向翻滚90度"
+        ],
+        "position": {
+          "x": 11521.008808522969,
+          "y": 58.2090129292785
+        }
+      },
+      {
+        "id": "tech-22",
+        "type": "tech",
+        "insights": [
+          "某些杯子来回两次可以翻滚180度"
+        ],
+        "position": {
+          "x": 11396.332068618058,
+          "y": 423.5986775147127
+        }
+      },
+      {
+        "id": "theme-42",
+        "type": "theme",
+        "insights": [
+          "拐角：利用两个粘墙翻滚180度"
+        ],
+        "position": {
+          "x": 11722.007296284894,
+          "y": 775.2381855609447
+        }
+      },
+      {
+        "id": "tech-23",
+        "type": "tech",
+        "insights": [
+          "间隔一个墙的震荡前进可以保持原有方向"
+        ],
+        "position": {
+          "x": 11813.49651562103,
+          "y": 430.1723010007815
+        }
+      },
+      {
+        "id": "theme-43",
+        "type": "theme",
+        "insights": [
+          "狭道：难度极高的组合翻滚"
+        ],
+        "position": {
+          "x": 13282.321640681788,
+          "y": 823.0506875103847
+        }
+      },
+      {
+        "id": "tech-24",
+        "type": "tech",
+        "insights": [
+          "嵌套就可以在开口朝向也能翻滚了"
+        ],
+        "position": {
+          "x": 13020.009370764306,
+          "y": 439.38803447950323
+        }
+      },
+      {
+        "id": "rule-15",
+        "type": "rule",
+        "insights": [
+          "套娃的内部杯子也会跟随粘粘机制翻滚"
+        ],
+        "position": {
+          "x": 12978.499421361115,
+          "y": 24.495650215788626
+        }
+      },
+      {
+        "id": "theme-44",
+        "type": "theme",
+        "insights": [
+          "大盗：需要一个箱子来帮忙运输的浮空谜题"
+        ],
+        "position": {
+          "x": 12860.999097871481,
+          "y": 760.7955869849362
+        }
+      },
+      {
+        "id": "theme-45",
+        "type": "theme",
+        "insights": [
+          "对口：两个箱子要对着口才能合在一起的好谜题"
+        ],
+        "position": {
+          "x": 12178.976903388984,
+          "y": 762.0510625453155
+        }
+      },
+      {
+        "id": "theme-46",
+        "type": "theme",
+        "insights": [
+          "浮空：浮空教学和角翻转"
+        ],
+        "position": {
+          "x": 12529.00829760666,
+          "y": 999.6487077780645
+        }
+      },
+      {
+        "id": "rule-16",
+        "type": "rule",
+        "insights": [
+          "翻转90度后如果没有遇到墙且没有地面还会继续滚"
+        ],
+        "position": {
+          "x": 12610.491968540115,
+          "y": -119.56634755642926
+        }
+      },
+      {
+        "id": "tech-25",
+        "type": "tech",
+        "insights": [
+          "U杯的角翻滚应用"
+        ],
+        "position": {
+          "x": 12531.82579163775,
+          "y": 196.22662953879598
+        }
+      },
+      {
+        "id": "rule-17",
+        "type": "rule",
+        "insights": [
+          "没有支撑的情况下，角色和箱子靠着粘粘墙壁也能浮空存在"
+        ],
+        "position": {
+          "x": 12277.409445278872,
+          "y": -82.48837505410066
+        }
+      },
+      {
+        "id": "tech-26",
+        "type": "tech",
+        "insights": [
+          "U杯的对口套娃"
+        ],
+        "position": {
+          "x": 12115.019408236543,
+          "y": 388.7487473061177
         }
       }
     ],
-    "edges": []
+    "groups": [
+      {
+        "id": "group-1",
+        "type": "group",
+        "name": "引入",
+        "memberNodeIds": [
+          "theme-2",
+          "node-1",
+          "theme-7"
+        ],
+        "collapsed": false,
+        "position": {
+          "x": -421.6776084752067,
+          "y": -55.71849185497551
+        }
+      },
+      {
+        "id": "group-2",
+        "type": "group",
+        "name": "杯子基础规则",
+        "memberNodeIds": [
+          "node-2",
+          "theme-1",
+          "theme-4",
+          "theme-3",
+          "theme-8",
+          "theme-9",
+          "theme-12",
+          "theme-6",
+          "theme-5"
+        ],
+        "collapsed": false,
+        "position": {
+          "x": 252.18971069211776,
+          "y": 206.97319903289508
+        }
+      },
+      {
+        "id": "group-3",
+        "type": "group",
+        "name": "套杯",
+        "memberNodeIds": [
+          "theme-22",
+          "theme-10",
+          "theme-15",
+          "theme-21",
+          "theme-18",
+          "theme-23",
+          "theme-19",
+          "theme-20",
+          "theme-16",
+          "theme-17"
+        ],
+        "collapsed": false,
+        "position": {
+          "x": 3042.8717789467364,
+          "y": 404.162103486496
+        }
+      },
+      {
+        "id": "group-4",
+        "type": "group",
+        "name": "雨机制引入",
+        "memberNodeIds": [
+          "theme-11",
+          "theme-13",
+          "theme-14"
+        ],
+        "collapsed": false,
+        "position": {
+          "x": 2964.5656521463293,
+          "y": 75.28546132962263
+        }
+      },
+      {
+        "id": "group-5",
+        "type": "group",
+        "name": "地雷",
+        "memberNodeIds": [
+          "theme-24",
+          "theme-26",
+          "theme-28",
+          "theme-31",
+          "theme-29",
+          "theme-32",
+          "theme-25",
+          "theme-27",
+          "theme-30",
+          "tech-19",
+          "theme-33",
+          "theme-34"
+        ],
+        "collapsed": false,
+        "position": {
+          "x": 7220.481037406262,
+          "y": 557.9310414759714
+        }
+      },
+      {
+        "id": "group-6",
+        "type": "group",
+        "name": "粘粘墙壁",
+        "memberNodeIds": [
+          "theme-35",
+          "theme-42",
+          "theme-45",
+          "theme-46",
+          "theme-44",
+          "theme-43"
+        ],
+        "collapsed": false,
+        "position": {
+          "x": 11057.146406102287,
+          "y": 756.6264429166971
+        }
+      },
+      {
+        "id": "group-7",
+        "type": "group",
+        "name": "猛击（新能力）",
+        "memberNodeIds": [
+          "theme-36",
+          "theme-37",
+          "theme-38",
+          "theme-39",
+          "theme-41",
+          "theme-40"
+        ],
+        "collapsed": false,
+        "position": {
+          "x": 9432.249389924264,
+          "y": 741.3178442102577
+        }
+      }
+    ],
+    "edges": [
+      {
+        "id": "edge-1",
+        "sourceNodeId": "rule-1",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-1",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-2",
+        "sourceNodeId": "tech-1",
+        "sourcePort": "bottom",
+        "targetNodeId": "node-1",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-3",
+        "sourceNodeId": "rule-2",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-2",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-5",
+        "sourceNodeId": "tech-2",
+        "sourcePort": "bottom",
+        "targetNodeId": "node-2",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-6",
+        "sourceNodeId": "tech-3",
+        "sourcePort": "bottom",
+        "targetNodeId": "node-2",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-9",
+        "sourceNodeId": "theme-2",
+        "sourcePort": "right",
+        "targetNodeId": "node-1",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-10",
+        "sourceNodeId": "rule-1",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-2",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-8",
+        "sourceNodeId": "rule-2",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-5",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-11",
+        "sourceNodeId": "tech-5",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-3",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-4",
+        "sourceNodeId": "rule-2",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-6",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-12",
+        "sourceNodeId": "theme-4",
+        "sourcePort": "right",
+        "targetNodeId": "theme-3",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-13",
+        "sourceNodeId": "tech-6",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-4",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-14",
+        "sourceNodeId": "rule-4",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-7",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-15",
+        "sourceNodeId": "tech-7",
+        "sourcePort": "bottom",
+        "targetNodeId": "node-1",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-16",
+        "sourceNodeId": "theme-3",
+        "sourcePort": "right",
+        "targetNodeId": "node-2",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-17",
+        "sourceNodeId": "node-2",
+        "sourcePort": "right",
+        "targetNodeId": "theme-1",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-18",
+        "sourceNodeId": "rule-4",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-5",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-19",
+        "sourceNodeId": "theme-1",
+        "sourcePort": "right",
+        "targetNodeId": "theme-5",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-20",
+        "sourceNodeId": "rule-2",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-4",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-21",
+        "sourceNodeId": "tech-4",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-5",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-22",
+        "sourceNodeId": "theme-5",
+        "sourcePort": "right",
+        "targetNodeId": "theme-6",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-23",
+        "sourceNodeId": "rule-5",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-6",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-24",
+        "sourceNodeId": "tech-8",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-6",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-7",
+        "sourceNodeId": "node-1",
+        "sourcePort": "right",
+        "targetNodeId": "theme-7",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-25",
+        "sourceNodeId": "theme-7",
+        "sourcePort": "right",
+        "targetNodeId": "theme-4",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-26",
+        "sourceNodeId": "rule-2",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-7",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-27",
+        "sourceNodeId": "theme-6",
+        "sourcePort": "right",
+        "targetNodeId": "theme-8",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-28",
+        "sourceNodeId": "theme-8",
+        "sourcePort": "right",
+        "targetNodeId": "theme-9",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-29",
+        "sourceNodeId": "rule-6",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-4",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-30",
+        "sourceNodeId": "rule-7",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-9",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-32",
+        "sourceNodeId": "rule-7",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-10",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-31",
+        "sourceNodeId": "rule-8",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-10",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-33",
+        "sourceNodeId": "tech-10",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-11",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-34",
+        "sourceNodeId": "theme-1",
+        "sourcePort": "right",
+        "targetNodeId": "theme-12",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-35",
+        "sourceNodeId": "tech-11",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-12",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-36",
+        "sourceNodeId": "rule-9",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-1",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-37",
+        "sourceNodeId": "rule-9",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-2",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-38",
+        "sourceNodeId": "rule-9",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-11",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-39",
+        "sourceNodeId": "tech-12",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-13",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-40",
+        "sourceNodeId": "theme-11",
+        "sourcePort": "right",
+        "targetNodeId": "theme-13",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-41",
+        "sourceNodeId": "theme-13",
+        "sourcePort": "right",
+        "targetNodeId": "theme-14",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-42",
+        "sourceNodeId": "theme-9",
+        "sourcePort": "right",
+        "targetNodeId": "theme-11",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-43",
+        "sourceNodeId": "theme-14",
+        "sourcePort": "right",
+        "targetNodeId": "theme-10",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-44",
+        "sourceNodeId": "tech-9",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-10",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-46",
+        "sourceNodeId": "tech-9",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-15",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-47",
+        "sourceNodeId": "tech-13",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-15",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-48",
+        "sourceNodeId": "rule-7",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-13",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-50",
+        "sourceNodeId": "rule-7",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-14",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-51",
+        "sourceNodeId": "tech-14",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-16",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-52",
+        "sourceNodeId": "theme-16",
+        "sourcePort": "right",
+        "targetNodeId": "theme-17",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-53",
+        "sourceNodeId": "tech-14",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-17",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-57",
+        "sourceNodeId": "rule-7",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-15",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-58",
+        "sourceNodeId": "tech-15",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-19",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-59",
+        "sourceNodeId": "theme-19",
+        "sourcePort": "right",
+        "targetNodeId": "theme-20",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-49",
+        "sourceNodeId": "theme-15",
+        "sourcePort": "right",
+        "targetNodeId": "theme-21",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-54",
+        "sourceNodeId": "tech-14",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-21",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-45",
+        "sourceNodeId": "theme-10",
+        "sourcePort": "right",
+        "targetNodeId": "theme-22",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-55",
+        "sourceNodeId": "theme-22",
+        "sourcePort": "right",
+        "targetNodeId": "theme-15",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-56",
+        "sourceNodeId": "theme-21",
+        "sourcePort": "right",
+        "targetNodeId": "theme-18",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-60",
+        "sourceNodeId": "theme-18",
+        "sourcePort": "right",
+        "targetNodeId": "theme-16",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-61",
+        "sourceNodeId": "theme-18",
+        "sourcePort": "right",
+        "targetNodeId": "theme-19",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-62",
+        "sourceNodeId": "theme-18",
+        "sourcePort": "right",
+        "targetNodeId": "theme-23",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-63",
+        "sourceNodeId": "theme-20",
+        "sourcePort": "right",
+        "targetNodeId": "theme-17",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-64",
+        "sourceNodeId": "theme-17",
+        "sourcePort": "right",
+        "targetNodeId": "theme-24",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-65",
+        "sourceNodeId": "theme-23",
+        "sourcePort": "right",
+        "targetNodeId": "theme-24",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-66",
+        "sourceNodeId": "rule-10",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-24",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-67",
+        "sourceNodeId": "rule-3",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-24",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-69",
+        "sourceNodeId": "rule-10",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-16",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-70",
+        "sourceNodeId": "rule-10",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-17",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-71",
+        "sourceNodeId": "tech-17",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-26",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-75",
+        "sourceNodeId": "tech-18",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-24",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-76",
+        "sourceNodeId": "rule-7",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-18",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-73",
+        "sourceNodeId": "tech-17",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-25",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-68",
+        "sourceNodeId": "theme-26",
+        "sourcePort": "right",
+        "targetNodeId": "theme-25",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-72",
+        "sourceNodeId": "theme-24",
+        "sourcePort": "right",
+        "targetNodeId": "theme-28",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-74",
+        "sourceNodeId": "theme-28",
+        "sourcePort": "right",
+        "targetNodeId": "theme-26",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-77",
+        "sourceNodeId": "tech-16",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-28",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-78",
+        "sourceNodeId": "theme-28",
+        "sourcePort": "right",
+        "targetNodeId": "theme-27",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-79",
+        "sourceNodeId": "theme-27",
+        "sourcePort": "right",
+        "targetNodeId": "theme-30",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-80",
+        "sourceNodeId": "theme-28",
+        "sourcePort": "right",
+        "targetNodeId": "theme-31",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-81",
+        "sourceNodeId": "theme-31",
+        "sourcePort": "right",
+        "targetNodeId": "theme-29",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-82",
+        "sourceNodeId": "theme-29",
+        "sourcePort": "right",
+        "targetNodeId": "theme-32",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-83",
+        "sourceNodeId": "theme-30",
+        "sourcePort": "right",
+        "targetNodeId": "theme-33",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-84",
+        "sourceNodeId": "theme-32",
+        "sourcePort": "right",
+        "targetNodeId": "theme-33",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-85",
+        "sourceNodeId": "theme-33",
+        "sourcePort": "right",
+        "targetNodeId": "theme-34",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-86",
+        "sourceNodeId": "tech-19",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-31",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-87",
+        "sourceNodeId": "theme-34",
+        "sourcePort": "right",
+        "targetNodeId": "theme-36",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-88",
+        "sourceNodeId": "rule-11",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-20",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-89",
+        "sourceNodeId": "tech-20",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-36",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-90",
+        "sourceNodeId": "rule-12",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-36",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-91",
+        "sourceNodeId": "theme-36",
+        "sourcePort": "right",
+        "targetNodeId": "theme-37",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-92",
+        "sourceNodeId": "rule-13",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-37",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-93",
+        "sourceNodeId": "theme-36",
+        "sourcePort": "right",
+        "targetNodeId": "theme-38",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-94",
+        "sourceNodeId": "tech-21",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-39",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-95",
+        "sourceNodeId": "theme-37",
+        "sourcePort": "right",
+        "targetNodeId": "theme-39",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-96",
+        "sourceNodeId": "rule-13",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-21",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-97",
+        "sourceNodeId": "theme-38",
+        "sourcePort": "right",
+        "targetNodeId": "theme-40",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-98",
+        "sourceNodeId": "theme-39",
+        "sourcePort": "right",
+        "targetNodeId": "theme-40",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-99",
+        "sourceNodeId": "theme-40",
+        "sourcePort": "right",
+        "targetNodeId": "theme-41",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-100",
+        "sourceNodeId": "theme-41",
+        "sourcePort": "right",
+        "targetNodeId": "theme-35",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-101",
+        "sourceNodeId": "rule-14",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-22",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-102",
+        "sourceNodeId": "tech-22",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-35",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-103",
+        "sourceNodeId": "theme-35",
+        "sourcePort": "right",
+        "targetNodeId": "theme-42",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-104",
+        "sourceNodeId": "rule-14",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-23",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-105",
+        "sourceNodeId": "tech-23",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-42",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-106",
+        "sourceNodeId": "rule-15",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-24",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-107",
+        "sourceNodeId": "tech-24",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-43",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-109",
+        "sourceNodeId": "theme-42",
+        "sourcePort": "right",
+        "targetNodeId": "theme-45",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-110",
+        "sourceNodeId": "theme-45",
+        "sourcePort": "right",
+        "targetNodeId": "theme-44",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-111",
+        "sourceNodeId": "rule-15",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-45",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-108",
+        "sourceNodeId": "theme-44",
+        "sourcePort": "right",
+        "targetNodeId": "theme-43",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-112",
+        "sourceNodeId": "theme-42",
+        "sourcePort": "right",
+        "targetNodeId": "theme-46",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-113",
+        "sourceNodeId": "rule-16",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-25",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-114",
+        "sourceNodeId": "tech-25",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-46",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-115",
+        "sourceNodeId": "rule-17",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-46",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-116",
+        "sourceNodeId": "theme-46",
+        "sourcePort": "right",
+        "targetNodeId": "theme-44",
+        "targetPort": "left",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-117",
+        "sourceNodeId": "tech-26",
+        "sourcePort": "bottom",
+        "targetNodeId": "theme-45",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      },
+      {
+        "id": "edge-118",
+        "sourceNodeId": "rule-14",
+        "sourcePort": "bottom",
+        "targetNodeId": "tech-26",
+        "targetPort": "top",
+        "dependencyType": "direct"
+      }
+    ],
+    "bake": {
+      "version": 1,
+      "sourceFingerprint": "85b170de",
+      "generatedAt": "2026-08-24T06:08:03.131Z",
+      "nodes": {
+        "node-1": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-4",
+              "rule-9"
+            ],
+            [
+              "tech-1",
+              "theme-2",
+              "tech-7"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-2|node-1|theme-7",
+          "color": "#4e6f57"
+        },
+        "node-2": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-6",
+              "rule-9"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-4|theme-3|node-2|theme-1",
+          "color": "#725c82"
+        },
+        "rule-1": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "tech-1": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-9"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "rule-2": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "tech-2": {
+          "dependencyLayers": [
+            [
+              "rule-2"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "tech-3": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-1": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-6",
+              "rule-9"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-4|theme-3|node-2|theme-1",
+          "color": "#725c82"
+        },
+        "tech-4": {
+          "dependencyLayers": [
+            [
+              "rule-2"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "rule-3": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "theme-2": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-9"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-2|node-1|theme-7",
+          "color": "#4e6f57"
+        },
+        "theme-3": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-4",
+              "rule-6",
+              "rule-9"
+            ],
+            [
+              "tech-1",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-4|theme-3|node-2|theme-1",
+          "color": "#725c82"
+        },
+        "tech-5": {
+          "dependencyLayers": [
+            [
+              "rule-2",
+              "rule-4"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "tech-6": {
+          "dependencyLayers": [
+            [
+              "rule-2"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-4": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-4",
+              "rule-6",
+              "rule-9"
+            ],
+            [
+              "tech-1",
+              "theme-2",
+              "tech-6",
+              "tech-7"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-4|theme-3|node-2|theme-1",
+          "color": "#725c82"
+        },
+        "rule-4": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "tech-7": {
+          "dependencyLayers": [
+            [
+              "rule-4"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-5": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-6",
+              "rule-9"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-5|theme-6|theme-8|theme-9",
+          "color": "#426b73"
+        },
+        "rule-5": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "theme-6": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-9"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-5|theme-6|theme-8|theme-9",
+          "color": "#426b73"
+        },
+        "tech-8": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-7": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "rule-4",
+              "rule-9"
+            ],
+            [
+              "tech-1",
+              "theme-2",
+              "tech-7"
+            ],
+            [
+              "node-1"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-2|node-1|theme-7",
+          "color": "#4e6f57"
+        },
+        "theme-8": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-9"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-5|theme-6|theme-8|theme-9",
+          "color": "#426b73"
+        },
+        "theme-9": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-9"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-5|theme-6|theme-8|theme-9",
+          "color": "#426b73"
+        },
+        "rule-6": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "rule-7": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "tech-9": {
+          "dependencyLayers": [
+            [
+              "rule-7"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-10": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-10|theme-22|theme-15|theme-21|theme-18",
+          "color": "#805f4b"
+        },
+        "theme-11": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-8",
+              "rule-9"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-10"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-11|theme-13|theme-14",
+          "color": "#725c82"
+        },
+        "rule-8": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "tech-10": {
+          "dependencyLayers": [
+            [
+              "rule-8"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-12": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-6",
+              "rule-9"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-11"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-12",
+          "color": "#53698a"
+        },
+        "tech-11": {
+          "dependencyLayers": [
+            [
+              "rule-9"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "rule-9": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "theme-13": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-8",
+              "rule-9",
+              "tech-12"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-10"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-11|theme-13|theme-14",
+          "color": "#725c82"
+        },
+        "tech-12": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-14": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-8",
+              "rule-9",
+              "tech-12"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-10"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-11|theme-13|theme-14",
+          "color": "#725c82"
+        },
+        "theme-15": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-10|theme-22|theme-15|theme-21|theme-18",
+          "color": "#805f4b"
+        },
+        "tech-13": {
+          "dependencyLayers": [
+            [
+              "rule-7"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-16": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-16",
+          "color": "#876446"
+        },
+        "tech-14": {
+          "dependencyLayers": [
+            [
+              "rule-7"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-17": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19"
+            ],
+            [
+              "theme-20"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-17",
+          "color": "#6f7149"
+        },
+        "theme-19": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-19|theme-20",
+          "color": "#4e6f57"
+        },
+        "tech-15": {
+          "dependencyLayers": [
+            [
+              "rule-7"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-20": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-19"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-19|theme-20",
+          "color": "#4e6f57"
+        },
+        "theme-21": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-10|theme-22|theme-15|theme-21|theme-18",
+          "color": "#805f4b"
+        },
+        "theme-18": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-10|theme-22|theme-15|theme-21|theme-18",
+          "color": "#805f4b"
+        },
+        "theme-22": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-10|theme-22|theme-15|theme-21|theme-18",
+          "color": "#805f4b"
+        },
+        "theme-23": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-23",
+          "color": "#426b73"
+        },
+        "theme-24": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-18"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-24|theme-28",
+          "color": "#7b5961"
+        },
+        "rule-10": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "tech-16": {
+          "dependencyLayers": [
+            [
+              "rule-10"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-25": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-17",
+              "tech-18"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-26"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-26|theme-25",
+          "color": "#4e6f57"
+        },
+        "theme-26": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-17",
+              "tech-18"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-26|theme-25",
+          "color": "#4e6f57"
+        },
+        "tech-17": {
+          "dependencyLayers": [
+            [
+              "rule-10"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-27": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-27|theme-30",
+          "color": "#7b5961"
+        },
+        "tech-18": {
+          "dependencyLayers": [
+            [
+              "rule-7"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-28": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-24|theme-28",
+          "color": "#7b5961"
+        },
+        "theme-29": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-31"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-31|theme-29|theme-32",
+          "color": "#426b73"
+        },
+        "theme-30": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-27"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-27|theme-30",
+          "color": "#7b5961"
+        },
+        "theme-31": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-31|theme-29|theme-32",
+          "color": "#426b73"
+        },
+        "theme-32": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-31"
+            ],
+            [
+              "theme-29"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-31|theme-29|theme-32",
+          "color": "#426b73"
+        },
+        "theme-33": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-27",
+              "theme-31"
+            ],
+            [
+              "theme-29",
+              "theme-30"
+            ],
+            [
+              "theme-32"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-33",
+          "color": "#7b5961"
+        },
+        "theme-34": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-27",
+              "theme-31"
+            ],
+            [
+              "theme-29",
+              "theme-30"
+            ],
+            [
+              "theme-32"
+            ],
+            [
+              "theme-33"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-34",
+          "color": "#725c82"
+        },
+        "tech-19": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-35": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19",
+              "rule-11",
+              "rule-12",
+              "rule-13",
+              "rule-14"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18",
+              "tech-20",
+              "tech-21",
+              "tech-22"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-27",
+              "theme-31"
+            ],
+            [
+              "theme-29",
+              "theme-30"
+            ],
+            [
+              "theme-32"
+            ],
+            [
+              "theme-33"
+            ],
+            [
+              "theme-34"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-37",
+              "theme-38"
+            ],
+            [
+              "theme-39"
+            ],
+            [
+              "theme-40"
+            ],
+            [
+              "theme-41"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-35|theme-42",
+          "color": "#7b5961"
+        },
+        "theme-36": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19",
+              "rule-11",
+              "rule-12"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18",
+              "tech-20"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-27",
+              "theme-31"
+            ],
+            [
+              "theme-29",
+              "theme-30"
+            ],
+            [
+              "theme-32"
+            ],
+            [
+              "theme-33"
+            ],
+            [
+              "theme-34"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-36",
+          "color": "#4e6f57"
+        },
+        "tech-20": {
+          "dependencyLayers": [
+            [
+              "rule-11"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "rule-11": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "rule-12": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "theme-37": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19",
+              "rule-11",
+              "rule-12",
+              "rule-13"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18",
+              "tech-20"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-27",
+              "theme-31"
+            ],
+            [
+              "theme-29",
+              "theme-30"
+            ],
+            [
+              "theme-32"
+            ],
+            [
+              "theme-33"
+            ],
+            [
+              "theme-34"
+            ],
+            [
+              "theme-36"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-37|theme-39",
+          "color": "#7b5961"
+        },
+        "theme-38": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19",
+              "rule-11",
+              "rule-12"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18",
+              "tech-20"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-27",
+              "theme-31"
+            ],
+            [
+              "theme-29",
+              "theme-30"
+            ],
+            [
+              "theme-32"
+            ],
+            [
+              "theme-33"
+            ],
+            [
+              "theme-34"
+            ],
+            [
+              "theme-36"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-38",
+          "color": "#53698a"
+        },
+        "rule-13": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "tech-21": {
+          "dependencyLayers": [
+            [
+              "rule-13"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-39": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19",
+              "rule-11",
+              "rule-12",
+              "rule-13"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18",
+              "tech-20",
+              "tech-21"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-27",
+              "theme-31"
+            ],
+            [
+              "theme-29",
+              "theme-30"
+            ],
+            [
+              "theme-32"
+            ],
+            [
+              "theme-33"
+            ],
+            [
+              "theme-34"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-37"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-37|theme-39",
+          "color": "#7b5961"
+        },
+        "theme-40": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19",
+              "rule-11",
+              "rule-12",
+              "rule-13"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18",
+              "tech-20",
+              "tech-21"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-27",
+              "theme-31"
+            ],
+            [
+              "theme-29",
+              "theme-30"
+            ],
+            [
+              "theme-32"
+            ],
+            [
+              "theme-33"
+            ],
+            [
+              "theme-34"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-37",
+              "theme-38"
+            ],
+            [
+              "theme-39"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-40",
+          "color": "#876446"
+        },
+        "theme-41": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19",
+              "rule-11",
+              "rule-12",
+              "rule-13"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18",
+              "tech-20",
+              "tech-21"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-27",
+              "theme-31"
+            ],
+            [
+              "theme-29",
+              "theme-30"
+            ],
+            [
+              "theme-32"
+            ],
+            [
+              "theme-33"
+            ],
+            [
+              "theme-34"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-37",
+              "theme-38"
+            ],
+            [
+              "theme-39"
+            ],
+            [
+              "theme-40"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-41",
+          "color": "#53698a"
+        },
+        "rule-14": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "tech-22": {
+          "dependencyLayers": [
+            [
+              "rule-14"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-42": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19",
+              "rule-11",
+              "rule-12",
+              "rule-13",
+              "rule-14"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18",
+              "tech-20",
+              "tech-21",
+              "tech-22",
+              "tech-23"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-27",
+              "theme-31"
+            ],
+            [
+              "theme-29",
+              "theme-30"
+            ],
+            [
+              "theme-32"
+            ],
+            [
+              "theme-33"
+            ],
+            [
+              "theme-34"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-37",
+              "theme-38"
+            ],
+            [
+              "theme-39"
+            ],
+            [
+              "theme-40"
+            ],
+            [
+              "theme-41"
+            ],
+            [
+              "theme-35"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-35|theme-42",
+          "color": "#7b5961"
+        },
+        "tech-23": {
+          "dependencyLayers": [
+            [
+              "rule-14"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "theme-43": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19",
+              "rule-11",
+              "rule-12",
+              "rule-13",
+              "rule-14",
+              "rule-15",
+              "rule-16",
+              "rule-17"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18",
+              "tech-20",
+              "tech-21",
+              "tech-22",
+              "tech-23",
+              "tech-24",
+              "tech-25"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-27",
+              "theme-31"
+            ],
+            [
+              "theme-29",
+              "theme-30"
+            ],
+            [
+              "theme-32"
+            ],
+            [
+              "theme-33"
+            ],
+            [
+              "theme-34"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-37",
+              "theme-38"
+            ],
+            [
+              "theme-39"
+            ],
+            [
+              "theme-40"
+            ],
+            [
+              "theme-41"
+            ],
+            [
+              "theme-35"
+            ],
+            [
+              "theme-42"
+            ],
+            [
+              "theme-45",
+              "theme-46"
+            ],
+            [
+              "theme-44"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-43",
+          "color": "#805f4b"
+        },
+        "tech-24": {
+          "dependencyLayers": [
+            [
+              "rule-15"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "rule-15": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "theme-44": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19",
+              "rule-11",
+              "rule-12",
+              "rule-13",
+              "rule-14",
+              "rule-15",
+              "rule-16",
+              "rule-17"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18",
+              "tech-20",
+              "tech-21",
+              "tech-22",
+              "tech-23",
+              "tech-25"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-27",
+              "theme-31"
+            ],
+            [
+              "theme-29",
+              "theme-30"
+            ],
+            [
+              "theme-32"
+            ],
+            [
+              "theme-33"
+            ],
+            [
+              "theme-34"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-37",
+              "theme-38"
+            ],
+            [
+              "theme-39"
+            ],
+            [
+              "theme-40"
+            ],
+            [
+              "theme-41"
+            ],
+            [
+              "theme-35"
+            ],
+            [
+              "theme-42"
+            ],
+            [
+              "theme-45",
+              "theme-46"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-44",
+          "color": "#6f7149"
+        },
+        "theme-45": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19",
+              "rule-11",
+              "rule-12",
+              "rule-13",
+              "rule-14",
+              "rule-15"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18",
+              "tech-20",
+              "tech-21",
+              "tech-22",
+              "tech-23"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-27",
+              "theme-31"
+            ],
+            [
+              "theme-29",
+              "theme-30"
+            ],
+            [
+              "theme-32"
+            ],
+            [
+              "theme-33"
+            ],
+            [
+              "theme-34"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-37",
+              "theme-38"
+            ],
+            [
+              "theme-39"
+            ],
+            [
+              "theme-40"
+            ],
+            [
+              "theme-41"
+            ],
+            [
+              "theme-35"
+            ],
+            [
+              "theme-42"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-45",
+          "color": "#725c82"
+        },
+        "theme-46": {
+          "dependencyLayers": [
+            [
+              "rule-1",
+              "rule-2",
+              "tech-3",
+              "rule-3",
+              "rule-4",
+              "rule-5",
+              "tech-8",
+              "rule-6",
+              "rule-7",
+              "rule-8",
+              "rule-9",
+              "tech-12",
+              "rule-10",
+              "tech-19",
+              "rule-11",
+              "rule-12",
+              "rule-13",
+              "rule-14",
+              "rule-16",
+              "rule-17"
+            ],
+            [
+              "tech-1",
+              "tech-2",
+              "tech-4",
+              "theme-2",
+              "tech-5",
+              "tech-6",
+              "tech-7",
+              "tech-9",
+              "tech-10",
+              "tech-13",
+              "tech-14",
+              "tech-15",
+              "tech-16",
+              "tech-18",
+              "tech-20",
+              "tech-21",
+              "tech-22",
+              "tech-23",
+              "tech-25"
+            ],
+            [
+              "node-1"
+            ],
+            [
+              "theme-7"
+            ],
+            [
+              "theme-4"
+            ],
+            [
+              "theme-3"
+            ],
+            [
+              "node-2"
+            ],
+            [
+              "theme-1"
+            ],
+            [
+              "theme-5"
+            ],
+            [
+              "theme-6"
+            ],
+            [
+              "theme-8"
+            ],
+            [
+              "theme-9"
+            ],
+            [
+              "theme-11"
+            ],
+            [
+              "theme-13"
+            ],
+            [
+              "theme-14"
+            ],
+            [
+              "theme-10"
+            ],
+            [
+              "theme-22"
+            ],
+            [
+              "theme-15"
+            ],
+            [
+              "theme-21"
+            ],
+            [
+              "theme-18"
+            ],
+            [
+              "theme-16",
+              "theme-19",
+              "theme-23"
+            ],
+            [
+              "theme-20"
+            ],
+            [
+              "theme-17"
+            ],
+            [
+              "theme-24"
+            ],
+            [
+              "theme-28"
+            ],
+            [
+              "theme-27",
+              "theme-31"
+            ],
+            [
+              "theme-29",
+              "theme-30"
+            ],
+            [
+              "theme-32"
+            ],
+            [
+              "theme-33"
+            ],
+            [
+              "theme-34"
+            ],
+            [
+              "theme-36"
+            ],
+            [
+              "theme-37",
+              "theme-38"
+            ],
+            [
+              "theme-39"
+            ],
+            [
+              "theme-40"
+            ],
+            [
+              "theme-41"
+            ],
+            [
+              "theme-35"
+            ],
+            [
+              "theme-42"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "sequence:theme-46",
+          "color": "#426b73"
+        },
+        "rule-16": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        },
+        "tech-25": {
+          "dependencyLayers": [
+            [
+              "rule-16"
+            ]
+          ],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
+        },
+        "rule-17": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:rule",
+          "color": "#ff9a46"
+        }
+      }
+    }
   }
 }
