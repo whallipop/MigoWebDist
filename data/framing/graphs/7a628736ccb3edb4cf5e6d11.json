@@ -1625,7 +1625,7 @@
         ],
         "position": {
           "x": 22707.044181816997,
-          "y": 1059.9548091961997
+          "y": 1059.64950956758
         }
       },
       {
@@ -1648,7 +1648,7 @@
         ],
         "position": {
           "x": 22927.09632418679,
-          "y": 1277.0649706193701
+          "y": 1276.7596709907505
         }
       },
       {
@@ -1659,7 +1659,7 @@
         ],
         "position": {
           "x": 23249.30622550863,
-          "y": 1074.4374069419243
+          "y": 1074.1321073133047
         }
       },
       {
@@ -1759,8 +1759,8 @@
           "拆包：破解双面粘粘墙壁的问题"
         ],
         "position": {
-          "x": 23542.84378345096,
-          "y": 1267.9491076840488
+          "x": 23543.14908307958,
+          "y": 1267.6438080554292
         }
       },
       {
@@ -2327,7 +2327,7 @@
         "collapsed": false,
         "position": {
           "x": 22638.56976290264,
-          "y": 959.5122256097496
+          "y": 959.20692598113
         }
       },
       {
@@ -4345,8 +4345,8 @@
     ],
     "bake": {
       "version": 1,
-      "sourceFingerprint": "f6fe7284",
-      "generatedAt": "2026-09-18T00:12:22.266Z",
+      "sourceFingerprint": "c9372125",
+      "generatedAt": "2026-09-20T05:53:55.901Z",
       "nodes": {
         "node-1": {
           "dependencyLayers": [
@@ -9763,12 +9763,6 @@
           "indirectDependencyNodeIds": [],
           "sequenceId": "sequence:theme-53|theme-51",
           "color": "#426b73"
-        },
-        "theme-54": {
-          "dependencyLayers": [],
-          "indirectDependencyNodeIds": [],
-          "sequenceId": "sequence:theme-54",
-          "color": "#805f4b"
         },
         "theme-55": {
           "dependencyLayers": [
@@ -22373,6 +22367,12 @@
           "indirectDependencyNodeIds": [],
           "sequenceId": "sequence:theme-102",
           "color": "#805f4b"
+        },
+        "tech-54": {
+          "dependencyLayers": [],
+          "indirectDependencyNodeIds": [],
+          "sequenceId": "fixed:tech",
+          "color": "#64d9dc"
         }
       }
     }
